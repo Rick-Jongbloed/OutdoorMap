@@ -1,4 +1,4 @@
-// Wandelkaart – kaart met wandelingen per gebied
+// OutdoorMap – kaart met wandelingen per gebied
 
 // Decodeert een Google encoded polyline naar [[lat, lng], ...]
 function decodePolyline(str) {
