@@ -1,0 +1,167 @@
+{
+ "groepen": [
+  {
+   "id": "ourthe-ambleve",
+   "naam": "Ardennen – Ourthe & Amblève"
+  },
+  {
+   "id": "oost-belgie",
+   "naam": "Ardennen – Hoge Venen, Vesdre & Oostkantons"
+  },
+  {
+   "id": "semois",
+   "naam": "Ardennen – Semois & Anlier"
+  },
+  {
+   "id": "maas-lesse",
+   "naam": "Maas, Lesse & Condroz"
+  },
+  {
+   "id": "viroin-henegouwen",
+   "naam": "Viroin, Fagne, Samber & Henegouwen"
+  },
+  {
+   "id": "vlaanderen",
+   "naam": "Vlaanderen"
+  },
+  {
+   "id": "eifel-moezel-mullerthal",
+   "naam": "Eifel, Moezel & Mullerthal"
+  }
+ ],
+ "gebieden": [
+  {
+   "id": "hoge-venen",
+   "naam": "Hoge Venen",
+   "land": "België",
+   "kleur": "#d7263d",
+   "groep": "oost-belgie"
+  },
+  {
+   "id": "noordeifel",
+   "naam": "Noordeifel / Roetgen–Monschau",
+   "land": "Duitsland / België",
+   "kleur": "#f46036",
+   "groep": "eifel-moezel-mullerthal"
+  },
+  {
+   "id": "vesdre",
+   "naam": "Vesdre / Theux–Spa",
+   "land": "België",
+   "kleur": "#2e294e",
+   "groep": "oost-belgie"
+  },
+  {
+   "id": "ambleve",
+   "naam": "Amblève",
+   "land": "België",
+   "kleur": "#1b998b",
+   "groep": "ourthe-ambleve"
+  },
+  {
+   "id": "ourthe",
+   "naam": "Ourthe",
+   "land": "België",
+   "kleur": "#6a994e",
+   "groep": "ourthe-ambleve"
+  },
+  {
+   "id": "zuid-eifel",
+   "naam": "Zuid-Eifel",
+   "land": "Duitsland",
+   "kleur": "#8e44ad",
+   "groep": "eifel-moezel-mullerthal"
+  },
+  {
+   "id": "mullerthal",
+   "naam": "Mullerthal",
+   "land": "Luxemburg",
+   "kleur": "#0077b6",
+   "groep": "eifel-moezel-mullerthal"
+  },
+  {
+   "id": "moezel",
+   "naam": "Moezel / Hunsrück",
+   "land": "Duitsland",
+   "kleur": "#e09f3e",
+   "groep": "eifel-moezel-mullerthal"
+  },
+  {
+   "id": "semois",
+   "naam": "Semois",
+   "land": "België",
+   "kleur": "#e84393",
+   "groep": "semois"
+  },
+  {
+   "id": "oostkantons",
+   "naam": "Oostkantons / Our",
+   "land": "België",
+   "kleur": "#b5179e",
+   "groep": "oost-belgie"
+  },
+  {
+   "id": "herve-voeren",
+   "naam": "Land van Herve / Voeren",
+   "land": "België",
+   "kleur": "#7f5539",
+   "groep": "oost-belgie"
+  },
+  {
+   "id": "anlier",
+   "naam": "Anlier / Sûre",
+   "land": "België",
+   "kleur": "#9d4edd",
+   "groep": "semois"
+  },
+  {
+   "id": "maas",
+   "naam": "Maas / Naamse Condroz",
+   "land": "België",
+   "kleur": "#3a86ff",
+   "groep": "maas-lesse"
+  },
+  {
+   "id": "lesse",
+   "naam": "Lesse / Famenne",
+   "land": "België",
+   "kleur": "#fb5607",
+   "groep": "maas-lesse"
+  },
+  {
+   "id": "luikse-condroz",
+   "naam": "Luikse Condroz",
+   "land": "België",
+   "kleur": "#8338ec",
+   "groep": "maas-lesse"
+  },
+  {
+   "id": "viroin",
+   "naam": "Viroin / Fagne / Calestienne",
+   "land": "België",
+   "kleur": "#ff006e",
+   "groep": "viroin-henegouwen"
+  },
+  {
+   "id": "samber",
+   "naam": "Samber / Entre-Sambre-et-Meuse",
+   "land": "België",
+   "kleur": "#06d6a0",
+   "groep": "viroin-henegouwen"
+  },
+  {
+   "id": "henegouwen",
+   "naam": "Henegouwen / Waals-Brabant",
+   "land": "België",
+   "kleur": "#118ab2",
+   "groep": "viroin-henegouwen"
+  },
+  {
+   "id": "vlaanderen",
+   "naam": "Vlaanderen",
+   "land": "België",
+   "kleur": "#ffbe0b",
+   "groep": "vlaanderen"
+  }
+ ]
+}

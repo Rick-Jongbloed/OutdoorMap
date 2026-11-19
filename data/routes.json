@@ -1,0 +1,3737 @@
+[
+ {
+  "code": "AKR",
+  "naam": "De vallei van de Mark",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=AKR&nummer=1"
+  },
+  "gebied": "vlaanderen",
+  "plaats": "Akrenbos",
+  "start": [
+   50.72056,
+   3.90828
+  ],
+  "km": 18.0,
+  "hm": null,
+  "graad": 2,
+  "graad_kleur": "donkergroen",
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": {
+   "in_gids_5e_editie": false,
+   "pagina": null,
+   "alleen_in_gids": false
+  },
+  "gpx_bron": "AKRENBOSroute.gpx",
+  "opmerking": null
+ },
+ {
+  "code": "AUB",
+  "naam": "Het Land van Herve",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=AUB&nummer=1"
+  },
+  "gebied": "herve-voeren",
+  "plaats": "Aubel",
+  "start": [
+   50.69787,
+   5.80524
+  ],
+  "km": 20.0,
+  "hm": null,
+  "graad": 2,
+  "graad_kleur": "donkergroen",
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": {
+   "in_gids_5e_editie": false,
+   "pagina": null,
+   "alleen_in_gids": false
+  },
+  "gpx_bron": "AUBELroute.gpx",
+  "opmerking": null
+ },
+ {
+  "code": "AYW",
+  "naam": "Oude steengroeven langs de Amblève",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=AYW&nummer=1"
+  },
+  "gebied": "ambleve",
+  "plaats": "Aywaille",
+  "start": [
+   50.47388,
+   5.67527
+  ],
+  "km": 16.0,
+  "hm": null,
+  "graad": 5,
+  "graad_kleur": "zwart",
+  "kenmerken": [],
+  "hindernissen": [
+   "rotsklauteren",
+   "afgrond_hoogtevrees"
+  ],
+  "hindernissen_toelichting": "Rotsklauteren; Afgrond / hoogtevrees (duizelingwekkende paadjes langs verticale rotswand)",
+  "highlights": "3 oude steengroeven, natuurreservaat Heid des Gattes, wilde geiten, kasteelruïnes Vieux-Jardin & Emblève",
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": {
+   "km": 274,
+   "min": 177
+  },
+  "gids": {
+   "in_gids_5e_editie": false,
+   "pagina": null,
+   "alleen_in_gids": false
+  },
+  "gpx_bron": "AYWAILLEwaypoints oude site.gpx | AYWAILLEwaypoints.gpx",
+  "opmerking": null
+ },
+ {
+  "code": "BDP",
+  "naam": "Langs de Eau Noire",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=BDP&nummer=1"
+  },
+  "gebied": "viroin",
+  "plaats": "Bruly-De-Pesche",
+  "start": [
+   50.00163,
+   4.46026
+  ],
+  "km": 20.0,
+  "hm": null,
+  "graad": 2,
+  "graad_kleur": "donkergroen",
+  "kenmerken": [],
+  "hindernissen": [
+   "beekoversteek",
+   "nat_drassig",
+   "begroeiing",
+   "orientatie_spoorzoeken"
+  ],
+  "hindernissen_toelichting": "Beekoversteken (o.a. over boomstam & zonder brug — lastig bij nat weer); Nat / drassig (veenachtig plateau & natte boswegen); Begroeiing (manshoge varens); Oriëntatie / spoorzoeken",
+  "highlights": "Bunker 'Wolfsschlucht I' (WOII), veel groot wild, terras Presgaux, Fond de l'Eau, Coupe des Douze Apôtres",
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": {
+   "in_gids_5e_editie": false,
+   "pagina": null,
+   "alleen_in_gids": false
+  },
+  "gpx_bron": "BRULY-DE-PESCHEroute.gpx",
+  "opmerking": null
+ },
+ {
+  "code": "BEL",
+  "naam": "Belse heiden en broeken",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=BEL&nummer=1"
+  },
+  "gebied": "vlaanderen",
+  "plaats": "Bel",
+  "start": [
+   51.16302,
+   5.06368
+  ],
+  "km": 20.0,
+  "hm": null,
+  "graad": 2,
+  "graad_kleur": "donkergroen",
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": {
+   "in_gids_5e_editie": false,
+   "pagina": null,
+   "alleen_in_gids": false
+  },
+  "gpx_bron": "BELroute.gpx",
+  "opmerking": null
+ },
+ {
+  "code": "BEV",
+  "naam": "Langs en over de Schreve",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=BEV&nummer=1"
+  },
+  "gebied": "vlaanderen",
+  "plaats": "Beveren-Aan-De-Ijzer",
+  "start": [
+   50.93852,
+   2.64127
+  ],
+  "km": 13.0,
+  "hm": null,
+  "graad": 1,
+  "graad_kleur": "lichtgroen",
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": {
+   "in_gids_5e_editie": false,
+   "pagina": null,
+   "alleen_in_gids": false
+  },
+  "gpx_bron": "BEVEREN-AAN-DE-IJZERroute.gpx",
+  "opmerking": null
+ },
+ {
+  "code": "BOM",
+  "naam": "De rotsen van Sy",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=BOM&nummer=1"
+  },
+  "gebied": "ourthe",
+  "plaats": "Bomal-Sur-Ourthe",
+  "start": [
+   50.37892,
+   5.5229
+  ],
+  "km": 19.0,
+  "hm": null,
+  "graad": 4,
+  "graad_kleur": "rood",
+  "kenmerken": [],
+  "hindernissen": [
+   "rotsklauteren",
+   "afgrond_hoogtevrees",
+   "steil"
+  ],
+  "hindernissen_toelichting": "Rotsklauteren (droge beekbedding vol rotsblokken & rotskammetjes); Afgrond / hoogtevrees (hoge rotsen); Steil / hoogtemeters (zeer steile afdalingen Rocher des Vignobles & Calvarie)",
+  "highlights": "Rotsen van Sy, grotten, treinhaltes Bomal & Sy (5 km inkorting), terrasjes bij Sy (let op: drukke zondagsmarkt Bomal)",
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": {
+   "in_gids_5e_editie": true,
+   "pagina": "35",
+   "alleen_in_gids": true
+  },
+  "gpx_bron": "BOMAL-SUR-OURTHEroute.gpx | BOMALwaypoints oude site.gpx",
+  "opmerking": "alleen beschrijving in gids (5e editie, PDF)"
+ },
+ {
+  "code": "BON",
+  "naam": "Naar de rotsen van Marche-les-Dames",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=BON&nummer=1"
+  },
+  "gebied": "maas",
+  "plaats": "Boninne",
+  "start": [
+   50.49507,
+   4.92768
+  ],
+  "km": 11.0,
+  "hm": null,
+  "graad": 4,
+  "graad_kleur": "rood",
+  "kenmerken": [],
+  "hindernissen": [
+   "rotsklauteren",
+   "afgrond_hoogtevrees",
+   "orientatie_spoorzoeken",
+   "kapotte_brug",
+   "nat_drassig"
+  ],
+  "hindernissen_toelichting": "Rotsklauteren (rotskloofje met gladde stenen); Afgrond / hoogtevrees (smal paadje vlak langs afgrond — mijden bij nat weer); Oriëntatie / spoorzoeken (ingewikkeld padennet); Kapotte brug (deel ijzeren brug ontbreekt); Nat / drassig (modder)",
+  "highlights": "Geklasseerde rotsen van Marche-les-Dames (Albert I), uitzichten op de Maas",
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": {
+   "in_gids_5e_editie": true,
+   "pagina": "11",
+   "alleen_in_gids": true
+  },
+  "gpx_bron": "BONINNEwaypoints oude site.gpx",
+  "opmerking": "alleen beschrijving in gids (5e editie, PDF)"
+ },
+ {
+  "code": "BOT",
+  "naam": "Het graf van de reus",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=BOT&nummer=1"
+  },
+  "gebied": "semois",
+  "plaats": "Botassart",
+  "start": [
+   49.82147,
+   5.04521
+  ],
+  "km": 18.0,
+  "hm": null,
+  "graad": 5,
+  "graad_kleur": "zwart",
+  "kenmerken": [],
+  "hindernissen": [
+   "doorwading",
+   "ladder_ketting",
+   "steil",
+   "orientatie_spoorzoeken",
+   "omgevallen_bomen"
+  ],
+  "hindernissen_toelichting": "Doorwading (2x Semois, bij Graf van de Reus mogelijk diep); Ladder / ketting (hoge loodrechte ladder Les Echelles); Steil / hoogtemeters; Oriëntatie / spoorzoeken (overgroeide paadjes, piramide Osiris); Omgevallen bomen",
+  "highlights": "Uitzichtpunt Tombeau du Géant, Les Grandes Falloises, bronzen piramide Osiris, Moulin des Rivages",
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": {
+   "km": 351,
+   "min": 224
+  },
+  "gids": {
+   "in_gids_5e_editie": true,
+   "pagina": "101",
+   "alleen_in_gids": true
+  },
+  "gpx_bron": "BOTASSARTwaypoints oude site.gpx | BOTASSARTwaypoints.gpx",
+  "opmerking": "alleen beschrijving in gids (5e editie, PDF)"
+ },
+ {
+  "code": "BOU",
+  "naam": "De côtes rond Bouillon",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=BOU&nummer=1"
+  },
+  "gebied": "semois",
+  "plaats": "Bouillon",
+  "start": [
+   49.79352,
+   5.06755
+  ],
+  "km": 14.0,
+  "hm": null,
+  "graad": 4,
+  "graad_kleur": "rood",
+  "kenmerken": [],
+  "hindernissen": [
+   "steil"
+  ],
+  "hindernissen_toelichting": "Steil / hoogtemeters (3 steile côtes, bergachtige paden)",
+  "highlights": "Semois-uitzichten, 55 m lange hangbrug bij Moulin de l'Épine",
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": {
+   "in_gids_5e_editie": false,
+   "pagina": null,
+   "alleen_in_gids": false
+  },
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "BRA",
+  "naam": "Panoramawandeling rond Bra-sur-Lienne",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=BRA&nummer=1"
+  },
+  "gebied": "ambleve",
+  "plaats": "Bra",
+  "start": [
+   50.32394,
+   5.73224
+  ],
+  "km": 17.0,
+  "hm": null,
+  "graad": 2,
+  "graad_kleur": "donkergroen",
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": {
+   "in_gids_5e_editie": false,
+   "pagina": null,
+   "alleen_in_gids": false
+  },
+  "gpx_bron": "BRAroute.gpx",
+  "opmerking": null
+ },
+ {
+  "code": "BRU",
+  "naam": "De Brabantse kouters",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=BRU&nummer=1"
+  },
+  "gebied": "vlaanderen",
+  "plaats": "Brussegem",
+  "start": [
+   50.92696,
+   4.26694
+  ],
+  "km": 20.0,
+  "hm": null,
+  "graad": 1,
+  "graad_kleur": "lichtgroen",
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": {
+   "in_gids_5e_editie": false,
+   "pagina": null,
+   "alleen_in_gids": false
+  },
+  "gpx_bron": "BRUSSEGEMroute.gpx",
+  "opmerking": null
+ },
+ {
+  "code": "BUR",
+  "naam": "Grenswandeling in de Oostkantons",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=BUR&nummer=1"
+  },
+  "gebied": "oostkantons",
+  "plaats": "Burg-Reuland",
+  "start": [
+   50.19558,
+   6.13627
+  ],
+  "km": 18.0,
+  "hm": null,
+  "graad": 4,
+  "graad_kleur": "rood",
+  "kenmerken": [],
+  "hindernissen": [
+   "orientatie_spoorzoeken"
+  ],
+  "hindernissen_toelichting": "Oriëntatie / spoorzoeken (verborgen grensstenen zoeken)",
+  "highlights": "Oostkantons-sfeer, grensrivier de Our, 1-huis-gehucht Diepert",
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": {
+   "in_gids_5e_editie": false,
+   "pagina": null,
+   "alleen_in_gids": false
+  },
+  "gpx_bron": "BURG-REULANDroute.gpx",
+  "opmerking": null
+ },
+ {
+  "code": "CAP",
+  "naam": "De rotsen van 'Les Tartines'",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=CAP&nummer=1"
+  },
+  "gebied": "ourthe",
+  "plaats": "Comblain-Au-Pont",
+  "start": [
+   50.47545,
+   5.5758
+  ],
+  "km": 9.0,
+  "hm": null,
+  "graad": 4,
+  "graad_kleur": "rood",
+  "kenmerken": [],
+  "hindernissen": [
+   "afgrond_hoogtevrees",
+   "grot_tunnel_zaklamp",
+   "rotsklauteren"
+  ],
+  "hindernissen_toelichting": "Afgrond / hoogtevrees (onbeveiligd pad boven Les Roches Noires); Grot / tunnel (gat in rots kruipen zonder rugzak + optionele donkere rotstunnel met zaklamp & ijzeren ladder — niet alleen); Rotsklauteren (handen gebruiken, glad bij nat weer)",
+  "highlights": "Natuurgebieden Les Roches Noires & Les Tartines (rotsplaten), uitzichtpunt Thier Pirard, kleine grotjes",
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": {
+   "in_gids_5e_editie": true,
+   "pagina": "29",
+   "alleen_in_gids": false
+  },
+  "gpx_bron": "COMBLAIN-AU-PONTroute.gpx",
+  "opmerking": null
+ },
+ {
+  "code": "DAV",
+  "naam": "Kleine paadjes en grote bossen aan de Maas",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=DAV&nummer=1"
+  },
+  "gebied": "maas",
+  "plaats": "Dave",
+  "start": [
+   50.41489,
+   4.88495
+  ],
+  "km": 19.0,
+  "hm": null,
+  "graad": 2,
+  "graad_kleur": "donkergroen",
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": {
+   "in_gids_5e_editie": false,
+   "pagina": null,
+   "alleen_in_gids": false
+  },
+  "gpx_bron": "DAVEroute.gpx",
+  "opmerking": null
+ },
+ {
+  "code": "DOL",
+  "naam": "Wandeling naar 'Le Boubou'",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=DOL&nummer=1"
+  },
+  "gebied": "ourthe",
+  "plaats": "Dolembreux",
+  "start": [
+   50.53673,
+   5.62466
+  ],
+  "km": 19.0,
+  "hm": null,
+  "graad": 3,
+  "graad_kleur": "oranje",
+  "kenmerken": [],
+  "hindernissen": [
+   "steil"
+  ],
+  "hindernissen_toelichting": "Steil / hoogtemeters (oud steil klimpad vanuit Méry)",
+  "highlights": "Uitzichtpunt & oude melkerij van Le Boubou, Ourthevallei",
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": {
+   "in_gids_5e_editie": false,
+   "pagina": null,
+   "alleen_in_gids": false
+  },
+  "gpx_bron": "DOLEMBREUXroute.gpx",
+  "opmerking": null
+ },
+ {
+  "code": "DRE",
+  "naam": "Rotsen aan de Lesse",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=DRE&nummer=1"
+  },
+  "gebied": "lesse",
+  "plaats": "Drehance",
+  "start": [
+   50.23648,
+   4.9384
+  ],
+  "km": 16.0,
+  "hm": null,
+  "graad": 5,
+  "graad_kleur": "zwart",
+  "kenmerken": [],
+  "hindernissen": [
+   "rotsklauteren",
+   "steil"
+  ],
+  "hindernissen_toelichting": "Rotsklauteren (technische passages over rotsmassieven); Steil / hoogtemeters",
+  "highlights": "Benedenloop Lesse, karstverschijnselen (spleten, grotten, onderaardse rivieren)",
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": {
+   "km": 299,
+   "min": 184
+  },
+  "gids": {
+   "in_gids_5e_editie": false,
+   "pagina": null,
+   "alleen_in_gids": false
+  },
+  "gpx_bron": "DREHANCEroute.gpx",
+  "opmerking": null
+ },
+ {
+  "code": "DUR",
+  "naam": "Door de Condroz naar de vallei van de Bocq",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=DUR&nummer=1"
+  },
+  "gebied": "maas",
+  "plaats": "Durnal",
+  "start": [
+   50.33653,
+   4.98479
+  ],
+  "km": 14.0,
+  "hm": null,
+  "graad": 1,
+  "graad_kleur": "lichtgroen",
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": {
+   "in_gids_5e_editie": false,
+   "pagina": null,
+   "alleen_in_gids": false
+  },
+  "gpx_bron": "DURNALroute.gpx",
+  "opmerking": null
+ },
+ {
+  "code": "EIG-BERDORF",
+  "naam": "Berdorf",
+  "bron": {
+   "naam": "Eigen route",
+   "url": null
+  },
+  "gebied": "mullerthal",
+  "plaats": null,
+  "start": [
+   49.82043,
+   6.34985
+  ],
+  "km": 19.2,
+  "hm": 516,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-BOTRANGE-27",
+  "naam": "Hoge Venen – Botrange (27 km)",
+  "bron": {
+   "naam": "Eigen route",
+   "url": null
+  },
+  "gebied": "hoge-venen",
+  "plaats": null,
+  "start": [
+   50.51859,
+   6.0637
+  ],
+  "km": 26.9,
+  "hm": 279,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-BOUILLON",
+  "naam": "Bouillon – Cordemois",
+  "bron": {
+   "naam": "Eigen route",
+   "url": null
+  },
+  "gebied": "semois",
+  "plaats": null,
+  "start": [
+   49.79162,
+   5.059
+  ],
+  "km": 7.4,
+  "hm": 140,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-HOEGNE",
+  "naam": "Vallei van de Hoëgne",
+  "bron": {
+   "naam": "Eigen route",
+   "url": null
+  },
+  "gebied": "hoge-venen",
+  "plaats": null,
+  "start": [
+   50.48168,
+   5.98731
+  ],
+  "km": 22.5,
+  "hm": 478,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [
+   "nat_drassig",
+   "steil"
+  ],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-MAYBACHKLAMM",
+  "naam": "Maybachklamm",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "moezel",
+  "plaats": null,
+  "start": [
+   50.13159,
+   7.44877
+  ],
+  "km": 10.5,
+  "hm": 409,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [
+   "rotsklauteren"
+  ],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-NINGLINSPO",
+  "naam": "Ninglinspo",
+  "bron": {
+   "naam": "Eigen route",
+   "url": null
+  },
+  "gebied": "ambleve",
+  "plaats": null,
+  "start": [
+   50.46773,
+   5.74398
+  ],
+  "km": 15.7,
+  "hm": 436,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-OVIFAT-12",
+  "naam": "Hoge Venen – Ovifat (12 km)",
+  "bron": {
+   "naam": "Eigen route",
+   "url": null
+  },
+  "gebied": "hoge-venen",
+  "plaats": null,
+  "start": [
+   50.49299,
+   6.09959
+  ],
+  "km": 12.0,
+  "hm": 193,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-OVIFAT-19",
+  "naam": "Hoge Venen – Ovifat (19 km)",
+  "bron": {
+   "naam": "Eigen route",
+   "url": null
+  },
+  "gebied": "hoge-venen",
+  "plaats": null,
+  "start": [
+   50.49308,
+   6.09999
+  ],
+  "km": 19.3,
+  "hm": 571,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [
+   "rotsklauteren"
+  ],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-RAEREN",
+  "naam": "Raeren – Roetgen",
+  "bron": {
+   "naam": "Eigen route",
+   "url": null
+  },
+  "gebied": "noordeifel",
+  "plaats": null,
+  "start": [
+   50.64701,
+   6.18304
+  ],
+  "km": 19.1,
+  "hm": 141,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "ERE",
+  "naam": "Naar de witte menhir",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=ERE&nummer=1"
+  },
+  "gebied": "ourthe",
+  "plaats": "Erezee",
+  "start": [
+   50.29405,
+   5.55803
+  ],
+  "km": 20.0,
+  "hm": null,
+  "graad": 2,
+  "graad_kleur": "donkergroen",
+  "kenmerken": [],
+  "hindernissen": [
+   "steil",
+   "orientatie_spoorzoeken"
+  ],
+  "hindernissen_toelichting": "Steil / hoogtemeters (>600 hm, 3 klimmen van >120 m); Oriëntatie / spoorzoeken (2 korte zoekstukjes)",
+  "highlights": "Dolmen Lit du Diable & witte menhir Pierre Haïna (Wéris), oude steengroeve La Carrière, watermolen Eveux",
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": {
+   "in_gids_5e_editie": false,
+   "pagina": null,
+   "alleen_in_gids": false
+  },
+  "gpx_bron": "EREZEEroute.gpx",
+  "opmerking": null
+ },
+ {
+  "code": "ES-DAHLEM",
+  "naam": "EifelSpur Dahlemer Quellenpfad",
+  "bron": {
+   "naam": "EifelSpur (eifel.info)",
+   "url": "https://www.eifel.info/wandern/wanderwege/a-eifelspur-dahlemer-quellenpfad"
+  },
+  "gebied": "zuid-eifel",
+  "plaats": null,
+  "start": [
+   50.38627,
+   6.54729
+  ],
+  "km": 23.8,
+  "hm": 441,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "ESN",
+  "naam": "Grand Site de la Boucle de l'Ourthe",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=ESN&nummer=1"
+  },
+  "gebied": "ourthe",
+  "plaats": "Esneux",
+  "start": [
+   50.54675,
+   5.59108
+  ],
+  "km": 19.0,
+  "hm": null,
+  "graad": 3,
+  "graad_kleur": "oranje",
+  "kenmerken": [],
+  "hindernissen": [
+   "omgevallen_bomen",
+   "rotsklauteren",
+   "steil",
+   "prikkeldraad_vee"
+  ],
+  "hindernissen_toelichting": "Omgevallen bomen / erosie (oeverpad Ourthe); Rotsklauteren (droog ravijn vol rotsblokken); Steil / hoogtemeters (steil pad bij grotje); Prikkeldraad / vee (weidedoorgangen)",
+  "highlights": "Grote Ourthe-meander, Roche aux Faucons, beschermd dorpje Ham, verborgen grotje, Château le Fy, hydraulische pomp Hony",
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": {
+   "in_gids_5e_editie": true,
+   "pagina": "17",
+   "alleen_in_gids": true
+  },
+  "gpx_bron": "ESNEUXwaypoints oude site.gpx",
+  "opmerking": "alleen beschrijving in gids (5e editie, PDF)"
+ },
+ {
+  "code": "EVE",
+  "naam": "Taalgrenswandeling",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=EVE&nummer=1"
+  },
+  "gebied": "vlaanderen",
+  "plaats": "Everbeek",
+  "start": [
+   50.76315,
+   3.80882
+  ],
+  "km": 15.0,
+  "hm": null,
+  "graad": 1,
+  "graad_kleur": "lichtgroen",
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": {
+   "in_gids_5e_editie": false,
+   "pagina": null,
+   "alleen_in_gids": false
+  },
+  "gpx_bron": "EVERBEEKroute.gpx",
+  "opmerking": null
+ },
+ {
+  "code": "FAL",
+  "naam": "Hoog boven de Maas",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=FAL&nummer=1"
+  },
+  "gebied": "maas",
+  "plaats": "Falmignoul",
+  "start": [
+   50.20363,
+   4.89138
+  ],
+  "km": 12.0,
+  "hm": null,
+  "graad": 4,
+  "graad_kleur": "rood",
+  "kenmerken": [],
+  "hindernissen": [
+   "afgrond_hoogtevrees",
+   "rotsklauteren",
+   "steil"
+  ],
+  "hindernissen_toelichting": "Afgrond / hoogtevrees (smalle rotsrichel Le Drapeau & smal pad langs afgrond Colébi); Rotsklauteren (optionele technische klimvariant door Colébi-ravijn); Steil / hoogtemeters (Sentier Christianne)",
+  "highlights": "Rotsen van Freyr (Tête du Lion), Colébi-ravijn, uitzicht Le Drapeau, kasteelruïne Château Thierry (toegang verboden)",
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": {
+   "in_gids_5e_editie": true,
+   "pagina": "79",
+   "alleen_in_gids": true
+  },
+  "gpx_bron": "FALMIGNOULwaypoints oude site.gpx | FALMIGNOULwaypoints.gpx",
+  "opmerking": "alleen beschrijving in gids (5e editie, PDF)"
+ },
+ {
+  "code": "FEL",
+  "naam": "Grote wouden aan de Franse grens",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=FEL&nummer=1"
+  },
+  "gebied": "lesse",
+  "plaats": "Felenne",
+  "start": [
+   50.06974,
+   4.84764
+  ],
+  "km": 16.0,
+  "hm": null,
+  "graad": 2,
+  "graad_kleur": "donkergroen",
+  "kenmerken": [],
+  "hindernissen": [
+   "orientatie_spoorzoeken",
+   "nat_drassig",
+   "omgevallen_bomen"
+  ],
+  "hindernissen_toelichting": "Oriëntatie / spoorzoeken (grote wouden); Nat / drassig (modderige stukken); Omgevallen bomen (boswerkzaamheden)",
+  "highlights": "Afgelegen wouden met groot wild, rivier de Houille (bevers, watermolen Bourseigne), picknickplaats Olenne",
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": {
+   "in_gids_5e_editie": false,
+   "pagina": null,
+   "alleen_in_gids": false
+  },
+  "gpx_bron": "FELENNEroute.gpx",
+  "opmerking": null
+ },
+ {
+  "code": "FER",
+  "naam": "Een netwerk van authentieke paden",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=FER&nummer=1"
+  },
+  "gebied": "ourthe",
+  "plaats": "Ferrieres",
+  "start": [
+   50.40023,
+   5.60601
+  ],
+  "km": 14.0,
+  "hm": null,
+  "graad": 3,
+  "graad_kleur": "oranje",
+  "kenmerken": [],
+  "hindernissen": [
+   "steil"
+  ],
+  "hindernissen_toelichting": "Steil / hoogtemeters (heuvelachtig tussen Ourthe & Amblève)",
+  "highlights": "Authentieke paden met Waalse dialectnamen, oude buurtspoorweg",
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": {
+   "in_gids_5e_editie": false,
+   "pagina": null,
+   "alleen_in_gids": false
+  },
+  "gpx_bron": "FERRIERESroute.gpx",
+  "opmerking": null
+ },
+ {
+  "code": "FIL",
+  "naam": "De oostelijke Ourthe",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=FIL&nummer=1"
+  },
+  "gebied": "ourthe",
+  "plaats": "Filly",
+  "start": [
+   50.14584,
+   5.69527
+  ],
+  "km": 16.0,
+  "hm": null,
+  "graad": 4,
+  "graad_kleur": "rood",
+  "kenmerken": [],
+  "hindernissen": [
+   "afgrond_hoogtevrees",
+   "omgevallen_bomen",
+   "rotsklauteren",
+   "nat_drassig"
+  ],
+  "hindernissen_toelichting": "Afgrond / hoogtevrees (smal gevaarlijk hoog pad bocht Moudehan); Omgevallen bomen / erosie; Rotsklauteren (oeverpad); Nat / drassig (modderig/onder water bij hoog peil Ourthe)",
+  "highlights": "Wilde Oostelijke Ourthe, Ruisseau de Martin Moulin (optie Achouffe +500 m), beverdammen Ruisseau de Belle Meuse, Domaine de Rensiwez",
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": {
+   "in_gids_5e_editie": true,
+   "pagina": "57",
+   "alleen_in_gids": true
+  },
+  "gpx_bron": "FILLYroute.gpx | FILLYwaypoints oude site.gpx",
+  "opmerking": "alleen beschrijving in gids (5e editie, PDF)"
+ },
+ {
+  "code": "FLO",
+  "naam": "Het graf van de Ridder",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=FLO&nummer=1"
+  },
+  "gebied": "semois",
+  "plaats": "Herbeumont",
+  "start": [
+   49.78094,
+   5.23768
+  ],
+  "km": 14.0,
+  "hm": null,
+  "graad": 4,
+  "graad_kleur": "rood",
+  "kenmerken": [],
+  "hindernissen": [
+   "doorwading",
+   "afgrond_hoogtevrees",
+   "omgevallen_bomen",
+   "jachtseizoen"
+  ],
+  "hindernissen_toelichting": "Doorwading (2x Semois in AWBA5 — niet bij hoog/koud water); Afgrond / hoogtevrees (smalle richels boven water); Omgevallen bomen / erosie (geaccidenteerd oeverpad); Jachtseizoen (jachtpoorten & veel everzwijnen)",
+  "highlights": "Burchtruïne & viaduct Herbeumont, meander Graf van de Ridder, Roche du Moulin, Libaipire, Moulin Willaime (Orval-terras)",
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": {
+   "in_gids_5e_editie": true,
+   "pagina": "109",
+   "alleen_in_gids": true
+  },
+  "gpx_bron": "HERBEUMONTwaypoints oude site.gpx",
+  "opmerking": "alleen beschrijving in gids (5e editie, PDF)"
+ },
+ {
+  "code": "FRA",
+  "naam": "De noordelijke Ardennen",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=FRA&nummer=1"
+  },
+  "gebied": "vesdre",
+  "plaats": "Fraipont",
+  "start": [
+   50.56596,
+   5.72376
+  ],
+  "km": 21.0,
+  "hm": null,
+  "graad": 3,
+  "graad_kleur": "oranje",
+  "kenmerken": [],
+  "hindernissen": [
+   "beekoversteek"
+  ],
+  "hindernissen_toelichting": "Beekoversteken / rotsige beekpaden (zijbeken met groot verval)",
+  "highlights": "Vesder-vallei, speelse zijbeken met kleine watervalletjes en poelen",
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": {
+   "in_gids_5e_editie": false,
+   "pagina": null,
+   "alleen_in_gids": false
+  },
+  "gpx_bron": "FRAIPONTroute.gpx",
+  "opmerking": null
+ },
+ {
+  "code": "FRO",
+  "naam": "De bossen van Gerpinnes",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=FRO&nummer=1"
+  },
+  "gebied": "samber",
+  "plaats": "Fromiee",
+  "start": [
+   50.33309,
+   4.57561
+  ],
+  "km": 16.0,
+  "hm": null,
+  "graad": 1,
+  "graad_kleur": "lichtgroen",
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": {
+   "in_gids_5e_editie": false,
+   "pagina": null,
+   "alleen_in_gids": false
+  },
+  "gpx_bron": "FROMIEEroute.gpx",
+  "opmerking": null
+ },
+ {
+  "code": "GEN",
+  "naam": "De Wilde Lesse",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=GEN&nummer=1"
+  },
+  "gebied": "lesse",
+  "plaats": "Gendron",
+  "start": [
+   50.20823,
+   4.98687
+  ],
+  "km": 13.0,
+  "hm": null,
+  "graad": 4,
+  "graad_kleur": "rood",
+  "kenmerken": [],
+  "hindernissen": [
+   "doorwading",
+   "nat_drassig"
+  ],
+  "hindernissen_toelichting": "Doorwading (1x Lesse); Nat / drassig (kolkende stroom bij regen — alleen bij stabiel weer)",
+  "highlights": "Wildste deel van de Lesse-vallei",
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": {
+   "in_gids_5e_editie": false,
+   "pagina": null,
+   "alleen_in_gids": false
+  },
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "GES",
+  "naam": "De vallei van de Samson",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=GES&nummer=1"
+  },
+  "gebied": "maas",
+  "plaats": "Gesves",
+  "start": [
+   50.40606,
+   5.06614
+  ],
+  "km": 15.0,
+  "hm": null,
+  "graad": 2,
+  "graad_kleur": "donkergroen",
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": {
+   "in_gids_5e_editie": false,
+   "pagina": null,
+   "alleen_in_gids": false
+  },
+  "gpx_bron": "GESVESroute.gpx",
+  "opmerking": null
+ },
+ {
+  "code": "GMO",
+  "naam": "Door het Pays des Collines",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=GMO&nummer=1"
+  },
+  "gebied": "henegouwen",
+  "plaats": "Grand-Monchau",
+  "start": [
+   50.70644,
+   3.6791
+  ],
+  "km": 16.0,
+  "hm": null,
+  "graad": 2,
+  "graad_kleur": "donkergroen",
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": {
+   "in_gids_5e_editie": false,
+   "pagina": null,
+   "alleen_in_gids": false
+  },
+  "gpx_bron": "GRAND-MONCHAUroute.gpx",
+  "opmerking": null
+ },
+ {
+  "code": "GOO",
+  "naam": "Het Pajottenland",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=GOO&nummer=1"
+  },
+  "gebied": "vlaanderen",
+  "plaats": "Gooik",
+  "start": [
+   50.79519,
+   4.11704
+  ],
+  "km": 15.0,
+  "hm": null,
+  "graad": 1,
+  "graad_kleur": "lichtgroen",
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": {
+   "in_gids_5e_editie": false,
+   "pagina": null,
+   "alleen_in_gids": false
+  },
+  "gpx_bron": "GOOIKroute.gpx",
+  "opmerking": null
+ },
+ {
+  "code": "HEB",
+  "naam": "Het bronnengebied van de Lienne",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=HEB&nummer=1"
+  },
+  "gebied": "ambleve",
+  "plaats": "Hebronval",
+  "start": [
+   50.25575,
+   5.81404
+  ],
+  "km": 16.0,
+  "hm": null,
+  "graad": 1,
+  "graad_kleur": "lichtgroen",
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": {
+   "in_gids_5e_editie": false,
+   "pagina": null,
+   "alleen_in_gids": false
+  },
+  "gpx_bron": "HEBRONVALroute.gpx",
+  "opmerking": null
+ },
+ {
+  "code": "HEL",
+  "naam": "Voetwegels door het oude Land van Haaltert",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=HEL&nummer=1"
+  },
+  "gebied": "vlaanderen",
+  "plaats": "Heldergem",
+  "start": [
+   50.88104,
+   3.95462
+  ],
+  "km": 15.0,
+  "hm": null,
+  "graad": 1,
+  "graad_kleur": "lichtgroen",
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": {
+   "in_gids_5e_editie": false,
+   "pagina": null,
+   "alleen_in_gids": false
+  },
+  "gpx_bron": "HELDERGEMroute.gpx",
+  "opmerking": null
+ },
+ {
+  "code": "HER",
+  "naam": "Windmolenwandeling",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=HER&nummer=1"
+  },
+  "gebied": "vlaanderen",
+  "plaats": "Herzele",
+  "start": [
+   50.8868,
+   3.89166
+  ],
+  "km": 18.0,
+  "hm": null,
+  "graad": 1,
+  "graad_kleur": "lichtgroen",
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": {
+   "in_gids_5e_editie": false,
+   "pagina": null,
+   "alleen_in_gids": false
+  },
+  "gpx_bron": "HERZELEroute.gpx",
+  "opmerking": null
+ },
+ {
+  "code": "HLW",
+  "naam": "De heuvels langs de Molignée",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=HLW&nummer=1"
+  },
+  "gebied": "maas",
+  "plaats": "Haut-Le-Wastia",
+  "start": [
+   50.30549,
+   4.84269
+  ],
+  "km": 17.0,
+  "hm": null,
+  "graad": 2,
+  "graad_kleur": "donkergroen",
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": {
+   "in_gids_5e_editie": false,
+   "pagina": null,
+   "alleen_in_gids": false
+  },
+  "gpx_bron": "HAUT-LE-WASTIAroute.gpx",
+  "opmerking": null
+ },
+ {
+  "code": "HOT",
+  "naam": "Rotsen, grotten en steengroeven",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=HOT&nummer=1"
+  },
+  "gebied": "ourthe",
+  "plaats": "Hotton",
+  "start": [
+   50.26808,
+   5.44755
+  ],
+  "km": 13.0,
+  "hm": null,
+  "graad": 4,
+  "graad_kleur": "rood",
+  "kenmerken": [],
+  "hindernissen": [
+   "rotsklauteren",
+   "afgrond_hoogtevrees",
+   "steil",
+   "grot_tunnel_zaklamp"
+  ],
+  "hindernissen_toelichting": "Rotsklauteren (technische steile rotsklim met handen & voeten); Afgrond / hoogtevrees (rotsmassief Renissart); Steil / hoogtemeters (moeilijk bij regen, losliggende stenen); Grot / tunnel (Porte Aïve, 30 m gang)",
+  "highlights": "Grot Porte Aïve, verdwijnende rivier Isbelle, natuurreservaat Carrière de l'Alouette (steengroeven & orchideeën), uitzichttoren Hotton",
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": {
+   "in_gids_5e_editie": true,
+   "pagina": "43",
+   "alleen_in_gids": false
+  },
+  "gpx_bron": "HOTTONroute.gpx | HOTTONwaypoints oude site.gpx",
+  "opmerking": null
+ },
+ {
+  "code": "HOU",
+  "naam": "Wijngaarden en wildernis in het Hageland",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=HOU&nummer=1"
+  },
+  "gebied": "vlaanderen",
+  "plaats": "Houwaart",
+  "start": [
+   50.93416,
+   4.86067
+  ],
+  "km": 14.0,
+  "hm": null,
+  "graad": 1,
+  "graad_kleur": "lichtgroen",
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": {
+   "in_gids_5e_editie": false,
+   "pagina": null,
+   "alleen_in_gids": false
+  },
+  "gpx_bron": "HOUWAARTroute.gpx",
+  "opmerking": null
+ },
+ {
+  "code": "HSL",
+  "naam": "Karstwandeling in de Famenne",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=HSL&nummer=1"
+  },
+  "gebied": "lesse",
+  "plaats": "Han-Sur-Lesse",
+  "start": [
+   50.12564,
+   5.18754
+  ],
+  "km": 15.0,
+  "hm": null,
+  "graad": 4,
+  "graad_kleur": "rood",
+  "kenmerken": [],
+  "hindernissen": [
+   "rotsklauteren",
+   "nat_drassig",
+   "begroeiing"
+  ],
+  "hindernissen_toelichting": "Rotsklauteren (glibberige steile rotshelling uit chantoir Laide Fosse — gevaarlijk bij vocht); Nat / drassig (gladde afdaling bij regen); Begroeiing (overgroeid in zomer)",
+  "highlights": "Karstverschijnselen (chantoir Laide Fosse, grotten, resurgenties), uitzichtpunt Le Belvédère, Famenne-panorama's, UNESCO Geopark",
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": {
+   "in_gids_5e_editie": true,
+   "pagina": "85",
+   "alleen_in_gids": true
+  },
+  "gpx_bron": "HAN-SUR-LESSEroute.gpx",
+  "opmerking": "alleen beschrijving in gids (5e editie, PDF)"
+ },
+ {
+  "code": "HSM",
+  "naam": "De wilde vallei van de Hermeton",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=HSM&nummer=1"
+  },
+  "gebied": "maas",
+  "plaats": "Hermeton-Sur-Meuse",
+  "start": [
+   50.19588,
+   4.81763
+  ],
+  "km": 18.0,
+  "hm": null,
+  "graad": 3,
+  "graad_kleur": "oranje",
+  "kenmerken": [],
+  "hindernissen": [
+   "omgevallen_bomen",
+   "steil",
+   "beekoversteek",
+   "doorwading"
+  ],
+  "hindernissen_toelichting": "Omgevallen bomen / erosie (geklauter op oeverpad); Steil / hoogtemeters (steile afdaling met touwen om rots); Beekoversteken (door Soumiée); Doorwading (alleen bij 13 km verkorting door Hermeton)",
+  "highlights": "Ongerepte wilde Hermeton-vallei, uitzichtpunt Tienne d'Enfer, Pont Christine, Ruisseau de Soumiée",
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": {
+   "in_gids_5e_editie": true,
+   "pagina": "73",
+   "alleen_in_gids": true
+  },
+  "gpx_bron": "HERMETON-SUR-MEUSEwaypoints.gpx | HERMETONwaypoints oude site.gpx",
+  "opmerking": "alleen beschrijving in gids (5e editie, PDF)"
+ },
+ {
+  "code": "HUN",
+  "naam": "Les Sept Meuses",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=HUN&nummer=1"
+  },
+  "gebied": "maas",
+  "plaats": "Hun",
+  "start": [
+   50.33685,
+   4.86723
+  ],
+  "km": 18.0,
+  "hm": null,
+  "graad": 2,
+  "graad_kleur": "donkergroen",
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": {
+   "in_gids_5e_editie": false,
+   "pagina": null,
+   "alleen_in_gids": false
+  },
+  "gpx_bron": "HUNroute.gpx",
+  "opmerking": null
+ },
+ {
+  "code": "IMP",
+  "naam": "Beschermde landschappen langs de Molenbeken",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=IMP&nummer=1"
+  },
+  "gebied": "vlaanderen",
+  "plaats": "Impe",
+  "start": [
+   50.96017,
+   3.95237
+  ],
+  "km": 15.0,
+  "hm": null,
+  "graad": 1,
+  "graad_kleur": "lichtgroen",
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": {
+   "in_gids_5e_editie": false,
+   "pagina": null,
+   "alleen_in_gids": false
+  },
+  "gpx_bron": "IMPEroute.gpx",
+  "opmerking": null
+ },
+ {
+  "code": "JAU",
+  "naam": "Door Brabants Haspengouw",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=JAU&nummer=1"
+  },
+  "gebied": "henegouwen",
+  "plaats": "Jauche",
+  "start": [
+   50.68194,
+   4.95427
+  ],
+  "km": 16.0,
+  "hm": null,
+  "graad": 1,
+  "graad_kleur": "lichtgroen",
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": {
+   "in_gids_5e_editie": false,
+   "pagina": null,
+   "alleen_in_gids": false
+  },
+  "gpx_bron": "JAUCHEroute.gpx",
+  "opmerking": null
+ },
+ {
+  "code": "KO-894582602",
+  "naam": "Fuhrtsbachtal",
+  "bron": {
+   "naam": "Komoot",
+   "url": "https://www.komoot.nl/tour/894582602"
+  },
+  "gebied": "noordeifel",
+  "plaats": null,
+  "start": [
+   50.50514,
+   6.2454
+  ],
+  "km": 17.7,
+  "hm": 317,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "KO-905263451",
+  "naam": "Wandeling Petergensfeld",
+  "bron": {
+   "naam": "Komoot",
+   "url": "https://www.komoot.nl/tour/905263451"
+  },
+  "gebied": "noordeifel",
+  "plaats": null,
+  "start": [
+   50.63847,
+   6.12533
+  ],
+  "km": 18.1,
+  "hm": 216,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "LAC",
+  "naam": "Semois, tussen Gaume en Ardennen",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=LAC&nummer=1"
+  },
+  "gebied": "semois",
+  "plaats": "Lacuisine",
+  "start": [
+   49.75635,
+   5.29492
+  ],
+  "km": 19.0,
+  "hm": null,
+  "graad": 4,
+  "graad_kleur": "rood",
+  "kenmerken": [],
+  "hindernissen": [
+   "doorwading",
+   "orientatie_spoorzoeken",
+   "omgevallen_bomen",
+   "begroeiing",
+   "nat_drassig"
+  ],
+  "hindernissen_toelichting": "Doorwading (2x Semois in online versie); Oriëntatie / spoorzoeken (overgroeid pad Roche Pinco & boskap bij Roche du Chat); Omgevallen bomen (vissersspoor); Begroeiing (hoge varens); Nat / drassig",
+  "highlights": "Kasteel & vijvers Les Épioux, 3 uitzichtrotsen: Roche de l'Écureuil, Roche Pinco & Roche du Chat",
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": {
+   "in_gids_5e_editie": false,
+   "pagina": null,
+   "alleen_in_gids": false
+  },
+  "gpx_bron": "LACUISINEwaypoints oude site.gpx",
+  "opmerking": null
+ },
+ {
+  "code": "LEM",
+  "naam": "Van Lembeek tot Achter de Bergen",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=LEM&nummer=1"
+  },
+  "gebied": "vlaanderen",
+  "plaats": "Lembeek",
+  "start": [
+   50.71376,
+   4.22347
+  ],
+  "km": 19.0,
+  "hm": null,
+  "graad": 2,
+  "graad_kleur": "donkergroen",
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": {
+   "in_gids_5e_editie": false,
+   "pagina": null,
+   "alleen_in_gids": false
+  },
+  "gpx_bron": "LEMBEEKroute.gpx",
+  "opmerking": null
+ },
+ {
+  "code": "LIE",
+  "naam": "De weiden van de Lienne",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=LIE&nummer=1"
+  },
+  "gebied": "ambleve",
+  "plaats": "Lierneux",
+  "start": [
+   50.28352,
+   5.7955
+  ],
+  "km": 18.0,
+  "hm": null,
+  "graad": 2,
+  "graad_kleur": "donkergroen",
+  "kenmerken": [],
+  "hindernissen": [
+   "geen_beschutting",
+   "verkeer",
+   "prikkeldraad_vee"
+  ],
+  "hindernissen_toelichting": "Geen beschutting (volledig open land); Verkeer (800 m langs drukke N645); Prikkeldraad / vee (nieuwsgierige koeien in weiden)",
+  "highlights": "Staatsnatuurreservaat Prés de la Lienne, skipiste Le Monti, Pont de Chailles, uitzichttoren Roche Jehenson",
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": {
+   "in_gids_5e_editie": false,
+   "pagina": null,
+   "alleen_in_gids": false
+  },
+  "gpx_bron": "LIERNEUXroute.gpx",
+  "opmerking": null
+ },
+ {
+  "code": "LOB",
+  "naam": "De vallei van de Boven-Samber",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=LOB&nummer=1"
+  },
+  "gebied": "samber",
+  "plaats": "Lobbes",
+  "start": [
+   50.34699,
+   4.26471
+  ],
+  "km": 20.0,
+  "hm": null,
+  "graad": 3,
+  "graad_kleur": "oranje",
+  "kenmerken": [],
+  "hindernissen": [
+   "prikkeldraad_vee"
+  ],
+  "hindernissen_toelichting": "Prikkeldraad / vee (paden door weiden en akkers)",
+  "highlights": "Abdijmuur & 17e-eeuwse Portelette van Lobbes, Boven-Samber",
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": {
+   "in_gids_5e_editie": false,
+   "pagina": null,
+   "alleen_in_gids": false
+  },
+  "gpx_bron": "LOBBESroute.gpx",
+  "opmerking": null
+ },
+ {
+  "code": "LOK",
+  "naam": "In Heuvelland langs en over de Schreve",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=LOK&nummer=1"
+  },
+  "gebied": "vlaanderen",
+  "plaats": "Loker",
+  "start": [
+   50.78482,
+   2.75884
+  ],
+  "km": 14.0,
+  "hm": null,
+  "graad": 1,
+  "graad_kleur": "lichtgroen",
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": {
+   "in_gids_5e_editie": false,
+   "pagina": null,
+   "alleen_in_gids": false
+  },
+  "gpx_bron": "LOKERroute.gpx",
+  "opmerking": null
+ },
+ {
+  "code": "LOU",
+  "naam": "De Muziekberg",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=LOU&nummer=1"
+  },
+  "gebied": "vlaanderen",
+  "plaats": "Louise-Marie",
+  "start": [
+   50.77105,
+   3.64407
+  ],
+  "km": 20.0,
+  "hm": null,
+  "graad": 2,
+  "graad_kleur": "donkergroen",
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": {
+   "in_gids_5e_editie": false,
+   "pagina": null,
+   "alleen_in_gids": false
+  },
+  "gpx_bron": "LOUISE-MARIEroute.gpx",
+  "opmerking": null
+ },
+ {
+  "code": "MAN",
+  "naam": "Het Bois de Harre",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=MAN&nummer=1"
+  },
+  "gebied": "ourthe",
+  "plaats": "Manhay",
+  "start": [
+   50.3511,
+   5.65827
+  ],
+  "km": 15.0,
+  "hm": null,
+  "graad": 3,
+  "graad_kleur": "oranje",
+  "kenmerken": [],
+  "hindernissen": [
+   "steil"
+  ],
+  "hindernissen_toelichting": "Steil / hoogtemeters (~450 hm, geen extreem steile stukken)",
+  "highlights": "Uitgestrekte wouden Bois de Harre, veel groot wild (hertenfamilie)",
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": {
+   "in_gids_5e_editie": false,
+   "pagina": null,
+   "alleen_in_gids": false
+  },
+  "gpx_bron": "MANHAYroute.gpx",
+  "opmerking": null
+ },
+ {
+  "code": "MAR",
+  "naam": "Het woud van Anlier",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=MAR&nummer=1"
+  },
+  "gebied": "anlier",
+  "plaats": "Martelange",
+  "start": [
+   49.7768,
+   5.69586
+  ],
+  "km": 19.0,
+  "hm": null,
+  "graad": 3,
+  "graad_kleur": "oranje",
+  "kenmerken": [],
+  "hindernissen": [
+   "jachtseizoen",
+   "orientatie_spoorzoeken",
+   "nat_drassig",
+   "omgevallen_bomen",
+   "beekoversteek"
+  ],
+  "hindernissen_toelichting": "Jachtseizoen (intensief okt–jan, geen honden); Oriëntatie / spoorzoeken (amper bewegwijzering, verdwaalrisico); Nat / drassig (modderpoelen); Omgevallen bomen; Beekoversteken",
+  "highlights": "Enorm ongerept Woud van Anlier, edelhertenbronst (herfst), zuivere beken Rulles & Petit Rulles, Croix Louis",
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": {
+   "in_gids_5e_editie": false,
+   "pagina": null,
+   "alleen_in_gids": false
+  },
+  "gpx_bron": "MARTELANGEroute.gpx",
+  "opmerking": null
+ },
+ {
+  "code": "MAT",
+  "naam": "De kalkstreek tussen de Fagne en de Ardennen",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=MAT&nummer=1"
+  },
+  "gebied": "viroin",
+  "plaats": "Matagne-La-Petite",
+  "start": [
+   50.1186,
+   4.6464
+  ],
+  "km": 16.0,
+  "hm": null,
+  "graad": 2,
+  "graad_kleur": "donkergroen",
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": {
+   "in_gids_5e_editie": false,
+   "pagina": null,
+   "alleen_in_gids": false
+  },
+  "gpx_bron": "MATAGNE-LA-PETITEroute.gpx",
+  "opmerking": null
+ },
+ {
+  "code": "MAZ",
+  "naam": "Grenswandeling aan de Viroin",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=MAZ&nummer=1"
+  },
+  "gebied": "viroin",
+  "plaats": "Mazee",
+  "start": [
+   50.1009,
+   4.6979
+  ],
+  "km": 19.0,
+  "hm": null,
+  "graad": 3,
+  "graad_kleur": "oranje",
+  "kenmerken": [
+   "grensoverschrijdend"
+  ],
+  "hindernissen": [],
+  "hindernissen_toelichting": "Grensoverschrijdend (FR/BE, afgelegen Frans woud)",
+  "highlights": "Oud smokkelaarspad (sentier des fraudeurs), Viroinvallei, museumdorp Treignes",
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": {
+   "in_gids_5e_editie": false,
+   "pagina": null,
+   "alleen_in_gids": false
+  },
+  "gpx_bron": "MAZEEroute.gpx",
+  "opmerking": null
+ },
+ {
+  "code": "MEM",
+  "naam": "Le Jambon de la Semois",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=MEM&nummer=1"
+  },
+  "gebied": "semois",
+  "plaats": "Membre",
+  "start": [
+   49.86614,
+   4.90144
+  ],
+  "km": 17.0,
+  "hm": null,
+  "graad": 4,
+  "graad_kleur": "rood",
+  "kenmerken": [],
+  "hindernissen": [
+   "doorwading",
+   "steil",
+   "orientatie_spoorzoeken",
+   "rotsklauteren",
+   "omgevallen_bomen",
+   "losliggende_stenen"
+  ],
+  "hindernissen_toelichting": "Doorwading (1x Semois); Steil / hoogtemeters (veelvuldig); Oriëntatie / spoorzoeken (zeer moeilijk vindbaar vervallen pad naar Jambon); Rotsklauteren (Le Chatelet & Le Sautou); Omgevallen bomen / losliggende stenen",
+  "highlights": "Uitzichtpunt Jambon de la Semois, Le Chatelet, Table des Fées, La Cheminée, moeflons Bohan-Membre, dorpje Bohan",
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": {
+   "in_gids_5e_editie": true,
+   "pagina": "93",
+   "alleen_in_gids": false
+  },
+  "gpx_bron": "MEMBREwaypoints oude site.gpx",
+  "opmerking": null
+ },
+ {
+  "code": "MER",
+  "naam": "De vallei van de Oude Kale",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=MER&nummer=1"
+  },
+  "gebied": "vlaanderen",
+  "plaats": "Merendree",
+  "start": [
+   51.07807,
+   3.57732
+  ],
+  "km": 12.0,
+  "hm": null,
+  "graad": 1,
+  "graad_kleur": "lichtgroen",
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": {
+   "in_gids_5e_editie": false,
+   "pagina": null,
+   "alleen_in_gids": false
+  },
+  "gpx_bron": "MERENDREEroute.gpx",
+  "opmerking": null
+ },
+ {
+  "code": "MOE",
+  "naam": "Het Brugse Ommeland",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=MOE&nummer=1"
+  },
+  "gebied": "vlaanderen",
+  "plaats": "Moerbrugge",
+  "start": [
+   51.1621,
+   3.26292
+  ],
+  "km": 16.0,
+  "hm": null,
+  "graad": 1,
+  "graad_kleur": "lichtgroen",
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": {
+   "in_gids_5e_editie": false,
+   "pagina": null,
+   "alleen_in_gids": false
+  },
+  "gpx_bron": "MOERBRUGGEroute.gpx",
+  "opmerking": null
+ },
+ {
+  "code": "MOO",
+  "naam": "Door de Faluintjes naar het Kravaalbos",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=MOO&nummer=1"
+  },
+  "gebied": "vlaanderen",
+  "plaats": "Moorsel",
+  "start": [
+   50.94759,
+   4.09896
+  ],
+  "km": 15.0,
+  "hm": null,
+  "graad": 1,
+  "graad_kleur": "lichtgroen",
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": {
+   "in_gids_5e_editie": false,
+   "pagina": null,
+   "alleen_in_gids": false
+  },
+  "gpx_bron": "MOORSELroute.gpx",
+  "opmerking": null
+ },
+ {
+  "code": "MOZ",
+  "naam": "De Naamse Condroz",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=MOZ&nummer=1"
+  },
+  "gebied": "maas",
+  "plaats": "Mozet",
+  "start": [
+   50.44073,
+   4.98739
+  ],
+  "km": 20.0,
+  "hm": null,
+  "graad": 2,
+  "graad_kleur": "donkergroen",
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": {
+   "in_gids_5e_editie": false,
+   "pagina": null,
+   "alleen_in_gids": false
+  },
+  "gpx_bron": "MOZETroute.gpx",
+  "opmerking": null
+ },
+ {
+  "code": "MT-2",
+  "naam": "Mullerthal Trail – Route 2",
+  "bron": {
+   "naam": "Mullerthal Trail",
+   "url": null
+  },
+  "gebied": "mullerthal",
+  "plaats": null,
+  "start": [
+   49.81622,
+   6.41603
+  ],
+  "km": 28.1,
+  "hm": 999,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "MT-3",
+  "naam": "Mullerthal Trail – Route 3",
+  "bron": {
+   "naam": "Mullerthal Trail",
+   "url": null
+  },
+  "gebied": "mullerthal",
+  "plaats": null,
+  "start": [
+   49.79054,
+   6.30649
+  ],
+  "km": 22.9,
+  "hm": 488,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "NAD",
+  "naam": "Rond de rotsen van 'Le Hérou'",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=NAD&nummer=1"
+  },
+  "gebied": "ourthe",
+  "plaats": "Nadrin",
+  "start": [
+   50.1559,
+   5.66262
+  ],
+  "km": 11.0,
+  "hm": null,
+  "graad": 4,
+  "graad_kleur": "rood",
+  "kenmerken": [],
+  "hindernissen": [
+   "ladder_ketting",
+   "afgrond_hoogtevrees",
+   "rotsklauteren",
+   "doorwading",
+   "reuzenberenklauw",
+   "begroeiing"
+  ],
+  "hindernissen_toelichting": "Ladder / ketting / touw (kettingpad & extreem steil pad met oud onbetrouwbaar touw); Afgrond / hoogtevrees (smal rotspad langs afgrond); Rotsklauteren (klimhaken & oeverrotsen); Doorwading (in OWBA3: 2x waden + 250 m door Ourthe); Begroeiing / berenklauw (zomer)",
+  "highlights": "Rotskam Le Hérou, Belvédère 5 Ourthes, Keltische vesting Le Cheslé, watervalletje Ruisseau de Pis de Vache",
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": {
+   "in_gids_5e_editie": true,
+   "pagina": "51",
+   "alleen_in_gids": true
+  },
+  "gpx_bron": "NADRINroute.gpx | NADRINwaypoints oude site.gpx",
+  "opmerking": "alleen beschrijving in gids (5e editie, PDF)"
+ },
+ {
+  "code": "NEE",
+  "naam": "Grenswandeling in de Dommelvallei",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=NEE&nummer=1"
+  },
+  "gebied": "vlaanderen",
+  "plaats": "Neerpelt",
+  "start": [
+   51.24761,
+   5.41685
+  ],
+  "km": 20.0,
+  "hm": null,
+  "graad": 1,
+  "graad_kleur": "lichtgroen",
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": {
+   "in_gids_5e_editie": false,
+   "pagina": null,
+   "alleen_in_gids": false
+  },
+  "gpx_bron": "NEERPELTroute.gpx",
+  "opmerking": null
+ },
+ {
+  "code": "NIS",
+  "naam": "De Calestienne",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=NIS&nummer=1"
+  },
+  "gebied": "viroin",
+  "plaats": "Nismes",
+  "start": [
+   50.0748,
+   4.54838
+  ],
+  "km": 17.0,
+  "hm": null,
+  "graad": 4,
+  "graad_kleur": "rood",
+  "kenmerken": [],
+  "hindernissen": [
+   "doorwading",
+   "rotsklauteren",
+   "grot_tunnel_zaklamp",
+   "steil"
+  ],
+  "hindernissen_toelichting": "Doorwading (2x Viroin, droog brug-alternatief beschikbaar); Rotsklauteren (Fondry des Chiens, delicate loodrechte rotswand met valgevaar); Grot / tunnel (door gat in Roche Trouée kruipen); Steil / hoogtemeters",
+  "highlights": "Fondry des Chiens, Roche Trouée, Roche aux Faucons (stoomtrein), ruïne Haute Roche (toegang verboden), kalkgraslanden",
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": {
+   "in_gids_5e_editie": true,
+   "pagina": "63",
+   "alleen_in_gids": true
+  },
+  "gpx_bron": "NISMES Calestienne track (Garmin MapSource).gdb | NISMESwaypoints oude site.gpx | NISMESwaypoints.gpx",
+  "opmerking": "alleen beschrijving in gids (5e editie, PDF)"
+ },
+ {
+  "code": "OHA",
+  "naam": "Een labyrint van kleine paden",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=OHA&nummer=1"
+  },
+  "gebied": "henegouwen",
+  "plaats": "Ohain",
+  "start": [
+   50.69436,
+   4.46967
+  ],
+  "km": 12.0,
+  "hm": null,
+  "graad": 1,
+  "graad_kleur": "lichtgroen",
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": {
+   "in_gids_5e_editie": false,
+   "pagina": null,
+   "alleen_in_gids": false
+  },
+  "gpx_bron": "OHAINroute.gpx",
+  "opmerking": null
+ },
+ {
+  "code": "ONK",
+  "naam": "Het stiltegebied tussen Dender en Mark",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=ONK&nummer=1"
+  },
+  "gebied": "vlaanderen",
+  "plaats": "Onkerzele",
+  "start": [
+   50.78202,
+   3.91118
+  ],
+  "km": 17.0,
+  "hm": null,
+  "graad": 1,
+  "graad_kleur": "lichtgroen",
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": {
+   "in_gids_5e_editie": false,
+   "pagina": null,
+   "alleen_in_gids": false
+  },
+  "gpx_bron": "ONKERZELEroute.gpx",
+  "opmerking": null
+ },
+ {
+  "code": "ONN",
+  "naam": "Door het natuurpark Hauts-Pays",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=ONN&nummer=1"
+  },
+  "gebied": "henegouwen",
+  "plaats": "Onnezies",
+  "start": [
+   50.36341,
+   3.71664
+  ],
+  "km": 18.0,
+  "hm": null,
+  "graad": 2,
+  "graad_kleur": "donkergroen",
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": {
+   "in_gids_5e_editie": false,
+   "pagina": null,
+   "alleen_in_gids": false
+  },
+  "gpx_bron": "ONNEZIESroute.gpx",
+  "opmerking": null
+ },
+ {
+  "code": "ORC",
+  "naam": "De Semois en zijbeken",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=ORC&nummer=1"
+  },
+  "gebied": "semois",
+  "plaats": "Orchimont",
+  "start": [
+   49.89353,
+   4.92744
+  ],
+  "km": 17.0,
+  "hm": null,
+  "graad": 3,
+  "graad_kleur": "oranje",
+  "kenmerken": [],
+  "hindernissen": [
+   "steil",
+   "orientatie_spoorzoeken",
+   "begroeiing"
+  ],
+  "hindernissen_toelichting": "Steil / hoogtemeters (afgebrokkelde paden Bohan-Membre); Oriëntatie / spoorzoeken (vervallen, zeer steil pad naar Jambon — kompas/GPS nuttig); Begroeiing (overwoekerde akkerpaden)",
+  "highlights": "Natuurreservaat Bohan-Membre (moeflons), wilde bergbeek Le Sautou, uitzichtpunt Jambon de la Semois, tabaksschuren",
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": {
+   "in_gids_5e_editie": false,
+   "pagina": null,
+   "alleen_in_gids": false
+  },
+  "gpx_bron": "ORCHIMONTroute.gpx",
+  "opmerking": null
+ },
+ {
+  "code": "ORG",
+  "naam": "Het land van de leisteen",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=ORG&nummer=1"
+  },
+  "gebied": "semois",
+  "plaats": "Orgeo",
+  "start": [
+   49.82821,
+   5.30223
+  ],
+  "km": 19.0,
+  "hm": null,
+  "graad": 4,
+  "graad_kleur": "rood",
+  "kenmerken": [],
+  "hindernissen": [
+   "grot_tunnel_zaklamp",
+   "nat_drassig",
+   "reuzenberenklauw",
+   "begroeiing",
+   "rotsklauteren",
+   "omgevallen_bomen"
+  ],
+  "hindernissen_toelichting": "Grot / tunnel (lange stikdonkere spoorwegtunnel Saint-Médard — zaklamp nodig); Nat / drassig (diepe slib/modderbrij bij tunnelmond — oude schoenen/sandalen + beek in bedding); Begroeiing / berenklauw (zomerjungle); Rotsklauteren (uit spoorbedding klauteren); Omgevallen bomen",
+  "highlights": "Oude spoorlijn L163A Bertrix-Muno, tunnel van Saint-Médard, oude leisteengroeven, watervallen in de bedding",
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": {
+   "in_gids_5e_editie": true,
+   "pagina": "115",
+   "alleen_in_gids": true
+  },
+  "gpx_bron": "ORGEOroute.gpx",
+  "opmerking": "alleen beschrijving in gids (5e editie, PDF)"
+ },
+ {
+  "code": "OUR",
+  "naam": "De vallei van de Our",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=OUR&nummer=1"
+  },
+  "gebied": "oostkantons",
+  "plaats": "Ouren",
+  "start": [
+   50.13092,
+   6.13685
+  ],
+  "km": 18.0,
+  "hm": null,
+  "graad": 3,
+  "graad_kleur": "oranje",
+  "kenmerken": [
+   "grensoverschrijdend"
+  ],
+  "hindernissen": [],
+  "hindernissen_toelichting": "Geen bijzondere hindernissen (grensoverschrijdend DE/LU)",
+  "highlights": "Europamonument (drielandenpunt), grensrivier de Our in Duitsland & Luxemburg",
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": {
+   "in_gids_5e_editie": false,
+   "pagina": null,
+   "alleen_in_gids": false
+  },
+  "gpx_bron": "OURENroute.gpx",
+  "opmerking": null
+ },
+ {
+  "code": "POR",
+  "naam": "De Our en de Lesse",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=POR&nummer=1"
+  },
+  "gebied": "lesse",
+  "plaats": "Porcheresse",
+  "start": [
+   49.97778,
+   5.08727
+  ],
+  "km": 20.0,
+  "hm": null,
+  "graad": 2,
+  "graad_kleur": "donkergroen",
+  "kenmerken": [],
+  "hindernissen": [
+   "orientatie_spoorzoeken",
+   "begroeiing",
+   "omgevallen_bomen",
+   "jachtseizoen"
+  ],
+  "hindernissen_toelichting": "Oriëntatie / spoorzoeken (paden niet op kaart); Begroeiing (hoge varens); Omgevallen bomen (boskap); Jachtseizoen / wild (veel everzwijnen)",
+  "highlights": "Gehucht Our (Le Clairval, La Table de Maxime), Roche Minguet, samenvloeiing Our & Lesse, Roche aux Chevaux",
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": {
+   "in_gids_5e_editie": false,
+   "pagina": null,
+   "alleen_in_gids": false
+  },
+  "gpx_bron": "PORCHERESSEroute.gpx",
+  "opmerking": null
+ },
+ {
+  "code": "REG",
+  "naam": "Het woud van Nismes",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=REG&nummer=1"
+  },
+  "gebied": "viroin",
+  "plaats": "Regniessart",
+  "start": [
+   50.01644,
+   4.58631
+  ],
+  "km": 17.0,
+  "hm": null,
+  "graad": 3,
+  "graad_kleur": "oranje",
+  "kenmerken": [],
+  "hindernissen": [
+   "orientatie_spoorzoeken",
+   "beekoversteek",
+   "nat_drassig",
+   "begroeiing"
+  ],
+  "hindernissen_toelichting": "Oriëntatie / spoorzoeken (schaarse oriëntatiepunten in enorm woud); Beekoversteken (doorwaadbare Ruisseau de Nouée, alternatief via rots of 1 km omweg); Nat / drassig (everzwijnbad); Begroeiing",
+  "highlights": "Afgelegen gehucht Regniessart, Baraque du Tilleul & Coq, wilde vallei Ruisseau de Nouée",
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": {
+   "in_gids_5e_editie": false,
+   "pagina": null,
+   "alleen_in_gids": false
+  },
+  "gpx_bron": "REGNIESSARTroute.gpx",
+  "opmerking": null
+ },
+ {
+  "code": "REI",
+  "naam": "Naar de vallei van de Tolifaz",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=REI&nummer=1"
+  },
+  "gebied": "vesdre",
+  "plaats": "La Reid",
+  "start": [
+   50.48937,
+   5.79094
+  ],
+  "km": 18.0,
+  "hm": null,
+  "graad": 3,
+  "graad_kleur": "oranje",
+  "kenmerken": [],
+  "hindernissen": [
+   "nat_drassig"
+  ],
+  "hindernissen_toelichting": "Nat / drassig (watervalkloof afhankelijk van regen/dooi)",
+  "highlights": "Vergeten watervalkloof in de vallei van de Eau Rouge, rustige weiden & bossen",
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": {
+   "in_gids_5e_editie": false,
+   "pagina": null,
+   "alleen_in_gids": false
+  },
+  "gpx_bron": "LA REIDroute.gpx",
+  "opmerking": null
+ },
+ {
+  "code": "RIV",
+  "naam": "La Sibérie",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=RIV&nummer=1"
+  },
+  "gebied": "maas",
+  "plaats": "Riviere",
+  "start": [
+   50.35812,
+   4.87222
+  ],
+  "km": 17.0,
+  "hm": null,
+  "graad": 3,
+  "graad_kleur": "oranje",
+  "kenmerken": [],
+  "hindernissen": [
+   "steil"
+  ],
+  "hindernissen_toelichting": "Steil / hoogtemeters (paadjes op steile Maashellingen)",
+  "highlights": "Spectaculaire uitzichtpunten op de Maas, Maasplateau",
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": {
+   "in_gids_5e_editie": false,
+   "pagina": null,
+   "alleen_in_gids": false
+  },
+  "gpx_bron": "RIVIEREroute.gpx",
+  "opmerking": null
+ },
+ {
+  "code": "ROM",
+  "naam": "De middenloop van de Hermeton",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=ROM&nummer=1"
+  },
+  "gebied": "maas",
+  "plaats": "Romedenne",
+  "start": [
+   50.17245,
+   4.69853
+  ],
+  "km": 18.0,
+  "hm": null,
+  "graad": 2,
+  "graad_kleur": "donkergroen",
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": {
+   "in_gids_5e_editie": false,
+   "pagina": null,
+   "alleen_in_gids": false
+  },
+  "gpx_bron": "ROMEDENNEroute.gpx",
+  "opmerking": null
+ },
+ {
+  "code": "RUY",
+  "naam": "De bergen langs de Roannay",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=RUY&nummer=1"
+  },
+  "gebied": "ambleve",
+  "plaats": "Moulin-Du-Ruy",
+  "start": [
+   50.42529,
+   5.88711
+  ],
+  "km": 17.0,
+  "hm": null,
+  "graad": 2,
+  "graad_kleur": "donkergroen",
+  "kenmerken": [],
+  "hindernissen": [
+   "nat_drassig",
+   "steil",
+   "begroeiing",
+   "doorwading"
+  ],
+  "hindernissen_toelichting": "Nat / drassig (kletsnat bij regen, veenachtige toppen, modder); Steil / hoogtemeters (>200 m per flank); Begroeiing (off-trail door manshoge varens); Doorwading (alleen in optionele variant + 'PRIVE'-versperring)",
+  "highlights": "Vakwerkhuizen, skipiste Mont des Brumes (64%), Les Grandes Fagnes, watervalletje Ruisseau de Bellaire (let op: geen horeca)",
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": {
+   "in_gids_5e_editie": false,
+   "pagina": null,
+   "alleen_in_gids": false
+  },
+  "gpx_bron": "MOULIN-DU-RUYroute.gpx",
+  "opmerking": null
+ },
+ {
+  "code": "SAL",
+  "naam": "Defilé van de Salm",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=SAL&nummer=1"
+  },
+  "gebied": "ambleve",
+  "plaats": "Salmchateau",
+  "start": [
+   50.26632,
+   5.90603
+  ],
+  "km": 15.0,
+  "hm": null,
+  "graad": 4,
+  "graad_kleur": "rood",
+  "kenmerken": [],
+  "hindernissen": [
+   "steil",
+   "afgrond_hoogtevrees",
+   "losliggende_stenen",
+   "orientatie_spoorzoeken"
+  ],
+  "hindernissen_toelichting": "Steil / hoogtemeters (>500 hm, Bonalfa & Bec du Corbeau); Afgrond / hoogtevrees (onbeveiligde uitzichtpunten & diepe uitgraving); Losliggende stenen (steile afdalingen); Oriëntatie / spoorzoeken (niet-bewegwijzerd)",
+  "highlights": "Kasteelruïne Salmchâteau, coticule-leisteengroeven & open mijngangen (vleermuizen), goudbeekje, Keltisch kamp, Bec du Corbeau",
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": {
+   "in_gids_5e_editie": false,
+   "pagina": null,
+   "alleen_in_gids": false
+  },
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "SAM",
+  "naam": "De beken van Samrée",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=SAM&nummer=1"
+  },
+  "gebied": "ourthe",
+  "plaats": "Samree",
+  "start": [
+   50.20863,
+   5.63932
+  ],
+  "km": 13.0,
+  "hm": null,
+  "graad": 4,
+  "graad_kleur": "rood",
+  "kenmerken": [],
+  "hindernissen": [
+   "steil",
+   "orientatie_spoorzoeken"
+  ],
+  "hindernissen_toelichting": "Steil / hoogtemeters (560 m naar 300 m); Oriëntatie / spoorzoeken (in onbruik geraakte woudloperspaden)",
+  "highlights": "Hooggelegen bossen, beken, veel groot wild",
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": {
+   "in_gids_5e_editie": false,
+   "pagina": null,
+   "alleen_in_gids": false
+  },
+  "gpx_bron": "SAMREEroute.gpx",
+  "opmerking": null
+ },
+ {
+  "code": "SCH",
+  "naam": "De Vlaamse Ardennen",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=SCH&nummer=1"
+  },
+  "gebied": "vlaanderen",
+  "plaats": "Schorisse",
+  "start": [
+   50.80656,
+   3.67903
+  ],
+  "km": 16.0,
+  "hm": null,
+  "graad": 1,
+  "graad_kleur": "lichtgroen",
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": {
+   "in_gids_5e_editie": false,
+   "pagina": null,
+   "alleen_in_gids": false
+  },
+  "gpx_bron": "SCHORISSEroute.gpx",
+  "opmerking": null
+ },
+ {
+  "code": "SGR",
+  "naam": "De Voerstreek",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=SGR&nummer=1"
+  },
+  "gebied": "herve-voeren",
+  "plaats": "S-Gravenvoeren",
+  "start": [
+   50.75831,
+   5.76282
+  ],
+  "km": 15.0,
+  "hm": null,
+  "graad": 2,
+  "graad_kleur": "donkergroen",
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": {
+   "in_gids_5e_editie": false,
+   "pagina": null,
+   "alleen_in_gids": false
+  },
+  "gpx_bron": "S-GRAVENVOERENroute.gpx",
+  "opmerking": null
+ },
+ {
+  "code": "SLH",
+  "naam": "Prelude op de Vlaamse Ardennen",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=SLH&nummer=1"
+  },
+  "gebied": "vlaanderen",
+  "plaats": "Sint-Lievens-Houtem",
+  "start": [
+   50.92061,
+   3.85804
+  ],
+  "km": 16.0,
+  "hm": null,
+  "graad": 1,
+  "graad_kleur": "lichtgroen",
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": {
+   "in_gids_5e_editie": false,
+   "pagina": null,
+   "alleen_in_gids": false
+  },
+  "gpx_bron": "SINT-LIEVENS-HOUTEMroute.gpx",
+  "opmerking": null
+ },
+ {
+  "code": "SMA",
+  "naam": "Het Maquis van Saint-Marcoult",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=SMA&nummer=1"
+  },
+  "gebied": "henegouwen",
+  "plaats": "Saint-Marcoult",
+  "start": [
+   50.64861,
+   3.96314
+  ],
+  "km": 18.0,
+  "hm": null,
+  "graad": 2,
+  "graad_kleur": "donkergroen",
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": {
+   "in_gids_5e_editie": false,
+   "pagina": null,
+   "alleen_in_gids": false
+  },
+  "gpx_bron": "SAINT-MARCOULTroute.gpx",
+  "opmerking": null
+ },
+ {
+  "code": "SML",
+  "naam": "Bruegel achterna in de Pedevallei",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=SML&nummer=1"
+  },
+  "gebied": "vlaanderen",
+  "plaats": "Sint-Martens-Lennik",
+  "start": [
+   50.8119,
+   4.16733
+  ],
+  "km": 22.0,
+  "hm": null,
+  "graad": 2,
+  "graad_kleur": "donkergroen",
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": {
+   "in_gids_5e_editie": false,
+   "pagina": null,
+   "alleen_in_gids": false
+  },
+  "gpx_bron": "SINT-MARTENS-LENNIKroute.gpx",
+  "opmerking": null
+ },
+ {
+  "code": "SMO",
+  "naam": "De Zwalmvallei",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=SMO&nummer=1"
+  },
+  "gebied": "vlaanderen",
+  "plaats": "Sint-Maria-Oudenhove",
+  "start": [
+   50.8338,
+   3.79473
+  ],
+  "km": 13.0,
+  "hm": null,
+  "graad": 2,
+  "graad_kleur": "donkergroen",
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": {
+   "in_gids_5e_editie": false,
+   "pagina": null,
+   "alleen_in_gids": false
+  },
+  "gpx_bron": "SINT-MARIA-OUDENHOVEroute.gpx",
+  "opmerking": null
+ },
+ {
+  "code": "SPV",
+  "naam": "Naar het dak van Vlaanderen",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=SPV&nummer=1"
+  },
+  "gebied": "herve-voeren",
+  "plaats": "Sint-Pieters-Voeren",
+  "start": [
+   50.73736,
+   5.8237
+  ],
+  "km": 13.0,
+  "hm": null,
+  "graad": 1,
+  "graad_kleur": "lichtgroen",
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": {
+   "in_gids_5e_editie": false,
+   "pagina": null,
+   "alleen_in_gids": false
+  },
+  "gpx_bron": "SINT-PIETERS-VOERENroute.gpx",
+  "opmerking": null
+ },
+ {
+  "code": "STA",
+  "naam": "Legenden in het woud van Stambruges",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=STA&nummer=1"
+  },
+  "gebied": "henegouwen",
+  "plaats": "Stambruges",
+  "start": [
+   50.50857,
+   3.71729
+  ],
+  "km": 16.0,
+  "hm": null,
+  "graad": 2,
+  "graad_kleur": "donkergroen",
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": {
+   "in_gids_5e_editie": false,
+   "pagina": null,
+   "alleen_in_gids": false
+  },
+  "gpx_bron": "STAMBRUGESroute.gpx",
+  "opmerking": null
+ },
+ {
+  "code": "STO",
+  "naam": "Congo aan de Amblève",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=STO&nummer=1"
+  },
+  "gebied": "ambleve",
+  "plaats": "Stoumont",
+  "start": [
+   50.4069,
+   5.80853
+  ],
+  "km": 16.0,
+  "hm": null,
+  "graad": 3,
+  "graad_kleur": "oranje",
+  "kenmerken": [],
+  "hindernissen": [
+   "orientatie_spoorzoeken",
+   "nat_drassig",
+   "beekoversteek"
+  ],
+  "hindernissen_toelichting": "Oriëntatie / spoorzoeken (niet op kaart staande & verdwenen paden, overgroeid visserspad); Nat / drassig (drassige boswegen); Beekoversteken",
+  "highlights": "Congo' langs Amblève (bevers), watervalletjes Ruisseau de Targnon, zicht op kasteel Froidcour, 2 km cornichepad, tearoom Bourotte",
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": {
+   "in_gids_5e_editie": false,
+   "pagina": null,
+   "alleen_in_gids": false
+  },
+  "gpx_bron": "STOUMONTroute.gpx",
+  "opmerking": null
+ },
+ {
+  "code": "STR",
+  "naam": "Naar de Rochers de Samson",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=STR&nummer=1"
+  },
+  "gebied": "maas",
+  "plaats": "Strud",
+  "start": [
+   50.44865,
+   5.05591
+  ],
+  "km": 16.0,
+  "hm": null,
+  "graad": 3,
+  "graad_kleur": "oranje",
+  "kenmerken": [],
+  "hindernissen": [
+   "grot_tunnel_zaklamp"
+  ],
+  "hindernissen_toelichting": "Grot / tunnel (grotjes & spelonk verkennen op Rochers de Samson)",
+  "highlights": "Rochers de Samson met burchtoverblijfselen, karaktervolle dorpen Naamse Condroz",
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": {
+   "in_gids_5e_editie": false,
+   "pagina": null,
+   "alleen_in_gids": false
+  },
+  "gpx_bron": "STRUDroute.gpx",
+  "opmerking": null
+ },
+ {
+  "code": "TDB",
+  "naam": "Over de Grand Mont",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": "https://www.scribd.com/doc/245535805/Wandeling-over-de-Grand-Mont"
+  },
+  "gebied": "ambleve",
+  "plaats": "Trou-De-Bra / Neucy",
+  "start": [
+   50.34222,
+   5.72186
+  ],
+  "km": 9.0,
+  "hm": null,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": {
+   "in_gids_5e_editie": false,
+   "pagina": null,
+   "alleen_in_gids": false
+  },
+  "gpx_bron": null,
+  "opmerking": "oude archiefwandeling op Scribd; graad niet vermeld; PDF niet op Drive"
+ },
+ {
+  "code": "TP-EHRBACHKLAMM",
+  "naam": "Traumschleife Ehrbachklamm",
+  "bron": {
+   "naam": "Traumpfade / Traumschleifen",
+   "url": null
+  },
+  "gebied": "moezel",
+  "plaats": null,
+  "start": [
+   50.19929,
+   7.4851
+  ],
+  "km": 18.1,
+  "hm": 585,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [
+   "rotsklauteren",
+   "steil"
+  ],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "VAR",
+  "naam": "Bossen langs de Rode Laak",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=VAR&nummer=1"
+  },
+  "gebied": "vlaanderen",
+  "plaats": "Varendonk",
+  "start": [
+   51.08251,
+   4.95234
+  ],
+  "km": 17.0,
+  "hm": null,
+  "graad": 1,
+  "graad_kleur": "lichtgroen",
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": {
+   "in_gids_5e_editie": false,
+   "pagina": null,
+   "alleen_in_gids": false
+  },
+  "gpx_bron": "VARENDONKroute.gpx",
+  "opmerking": null
+ },
+ {
+  "code": "VIL",
+  "naam": "Naamse Fagnelandschappen",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=VIL&nummer=1"
+  },
+  "gebied": "viroin",
+  "plaats": "Villers-En-Fagne",
+  "start": [
+   50.14588,
+   4.58447
+  ],
+  "km": 17.0,
+  "hm": null,
+  "graad": 3,
+  "graad_kleur": "oranje",
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": "Geen bijzondere hindernissen (zeer rustig en dunbevolkt)",
+  "highlights": "Fagne-landschappen, schitterende vergezichten, veel vlinders",
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": {
+   "in_gids_5e_editie": false,
+   "pagina": null,
+   "alleen_in_gids": false
+  },
+  "gpx_bron": "VILLERS-EN-FAGNEroute.gpx",
+  "opmerking": null
+ },
+ {
+  "code": "VIR",
+  "naam": "Langs de Eau Blanche",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=VIR&nummer=1"
+  },
+  "gebied": "viroin",
+  "plaats": "Virelles",
+  "start": [
+   50.06963,
+   4.35197
+  ],
+  "km": 12.0,
+  "hm": null,
+  "graad": 1,
+  "graad_kleur": "lichtgroen",
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": {
+   "in_gids_5e_editie": false,
+   "pagina": null,
+   "alleen_in_gids": false
+  },
+  "gpx_bron": "VIRELLESroute.gpx",
+  "opmerking": null
+ },
+ {
+  "code": "VSG",
+  "naam": "Bossen langs de Aisne",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=VSG&nummer=1"
+  },
+  "gebied": "ourthe",
+  "plaats": "Villers-Sainte-Gertrude",
+  "start": [
+   50.36113,
+   5.58029
+  ],
+  "km": 19.0,
+  "hm": null,
+  "graad": 3,
+  "graad_kleur": "oranje",
+  "kenmerken": [],
+  "hindernissen": [
+   "orientatie_spoorzoeken",
+   "beekoversteek",
+   "nat_drassig",
+   "prikkeldraad_vee"
+  ],
+  "hindernissen_toelichting": "Oriëntatie / spoorzoeken (verdwaalrisico in Bois d'Ozo); Beekoversteken (moeilijk bij hoog water); Nat / drassig; Prikkeldraad / vee (onder/over prikkeldraad)",
+  "highlights": "Machtige puddingsteenrots Roche à Frêne (boven & onder + bronwater), geitenboerderij Ozo (kaas/ijs), kasteeltaverne",
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": {
+   "in_gids_5e_editie": false,
+   "pagina": null,
+   "alleen_in_gids": false
+  },
+  "gpx_bron": "VILLERS-SAINTE-GERTRUDEroute.gpx",
+  "opmerking": null
+ },
+ {
+  "code": "VWB",
+  "naam": "Wilde zijriviertjes van de Amblève",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": null
+  },
+  "gebied": "ambleve",
+  "plaats": "Ville-Au-Bois",
+  "start": [
+   50.43639,
+   5.78667
+  ],
+  "km": 16.0,
+  "hm": null,
+  "graad": 3,
+  "graad_kleur": "oranje",
+  "kenmerken": [],
+  "hindernissen": [
+   "steil",
+   "afgrond_hoogtevrees",
+   "rotsklauteren",
+   "orientatie_spoorzoeken",
+   "nat_drassig",
+   "drukte"
+  ],
+  "hindernissen_toelichting": "Steil / hoogtemeters (klim >200 hm in 1 km vanaf Quarreux); Afgrond / hoogtevrees (rotskam Roches Crahay); Rotsklauteren (kleine rots beklimmen); Oriëntatie / spoorzoeken (2 verborgen, rotsige holle afdalingen vol bladeren/stenen, o.a. 'beenbrekersweg'); Nat / drassig (gladde bruggetjes/rotsen langs Ninglinspo & Chefna); Drukte (Ninglinspo druk in weekends)",
+  "highlights": "Bergbeek Ninglinspo (Bain du Cerf, Diana, Vénus) en wilde vallei van de Chefna",
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": {
+   "in_gids_5e_editie": false,
+   "pagina": null,
+   "alleen_in_gids": false
+  },
+  "gpx_bron": null,
+  "opmerking": "alleen in deel 2 (werkversie); graad/kleur (3 - oranje) ingeschat o.b.v. AWBA2; coördinaten Ville-au-Bois aangevuld"
+ },
+ {
+  "code": "VYL",
+  "naam": "De Luikse Condroz",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=VYL&nummer=1"
+  },
+  "gebied": "luikse-condroz",
+  "plaats": "Vyle-Et-Tharoul",
+  "start": [
+   50.44472,
+   5.26108
+  ],
+  "km": 19.0,
+  "hm": null,
+  "graad": 1,
+  "graad_kleur": "lichtgroen",
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": {
+   "in_gids_5e_editie": false,
+   "pagina": null,
+   "alleen_in_gids": false
+  },
+  "gpx_bron": "VYLE-ET-THAROULroute.gpx",
+  "opmerking": null
+ },
+ {
+  "code": "WAN",
+  "naam": "Le Grand Chemin du Luxembourg",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=WAN&nummer=1"
+  },
+  "gebied": "ambleve",
+  "plaats": "Wanne",
+  "start": [
+   50.35501,
+   5.92145
+  ],
+  "km": 18.0,
+  "hm": null,
+  "graad": 3,
+  "graad_kleur": "oranje",
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": "Geen zware hindernissen (goede wegen en paden, 2 rotspartijen)",
+  "highlights": "Historische Grand Chemin du Luxembourg, 2 rotspartijen, mooie beekvalleitjes",
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": {
+   "in_gids_5e_editie": false,
+   "pagina": null,
+   "alleen_in_gids": false
+  },
+  "gpx_bron": "WANNEroute.gpx",
+  "opmerking": null
+ },
+ {
+  "code": "WIB",
+  "naam": "Het land van de bevers",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=WIB&nummer=1"
+  },
+  "gebied": "ourthe",
+  "plaats": "Wibrin",
+  "start": [
+   50.1662,
+   5.7179
+  ],
+  "km": 14.0,
+  "hm": null,
+  "graad": 3,
+  "graad_kleur": "oranje",
+  "kenmerken": [],
+  "hindernissen": [
+   "nat_drassig",
+   "steil",
+   "kapotte_brug",
+   "prikkeldraad_vee"
+  ],
+  "hindernissen_toelichting": "Nat / drassig (beverdammen zetten valleien onder water — af te raden bij regen); Steil / hoogtemeters (klauterachtige rots-bergpaadjes in begin); Kapotte brug (afgetakelde voetgangersbrug); Prikkeldraad / vee (over omheining)",
+  "highlights": "Brouwerij & terrassen Achouffe (na 6 km), beverdammen langs Ruisseau du Pré Lefèbre & Eau de Martin Moulin",
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": {
+   "in_gids_5e_editie": false,
+   "pagina": null,
+   "alleen_in_gids": false
+  },
+  "gpx_bron": "WIBRINwaypoints oude site.gpx",
+  "opmerking": null
+ },
+ {
+  "code": "WT-2",
+  "naam": "Wildnis-Trail etappe 2 (Einruhr – Gemünd)",
+  "bron": {
+   "naam": "Wildnis-Trail Nationalpark Eifel",
+   "url": "https://www.thehike.nl/wildernis-trail-wandeling-nationaal-park-eifel/"
+  },
+  "gebied": "noordeifel",
+  "plaats": null,
+  "start": [
+   50.5819,
+   6.37965
+  ],
+  "km": 27.0,
+  "hm": 769,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [
+   "steil"
+  ],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "YVO",
+  "naam": "Maas en Bocq",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=YVO&nummer=1"
+  },
+  "gebied": "maas",
+  "plaats": "Yvoir",
+  "start": [
+   50.3263,
+   4.8785
+  ],
+  "km": 15.0,
+  "hm": null,
+  "graad": 5,
+  "graad_kleur": "zwart",
+  "kenmerken": [],
+  "hindernissen": [
+   "rotsklauteren",
+   "steil"
+  ],
+  "hindernissen_toelichting": "Rotsklauteren; Steil / hoogtemeters",
+  "highlights": "Rotsmassieven Le Paradou & Champalle, oude spoorlijn L128 (Bocq), prehistorische grot, halte Evrehailles",
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": {
+   "km": 296,
+   "min": 187
+  },
+  "gids": {
+   "in_gids_5e_editie": false,
+   "pagina": null,
+   "alleen_in_gids": false
+  },
+  "gpx_bron": "YVOIRroute.gpx | YVOIRwaypoints oude site.gpx",
+  "opmerking": null
+ },
+ {
+  "code": "ZIC",
+  "naam": "De Demervallei",
+  "bron": {
+   "naam": "Originele wandelingen (Gert Sonck)",
+   "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=ZIC&nummer=1"
+  },
+  "gebied": "vlaanderen",
+  "plaats": "Zichem",
+  "start": [
+   51.00198,
+   4.98476
+  ],
+  "km": 14.0,
+  "hm": null,
+  "graad": 1,
+  "graad_kleur": "lichtgroen",
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": {
+   "in_gids_5e_editie": false,
+   "pagina": null,
+   "alleen_in_gids": false
+  },
+  "gpx_bron": "ZICHEMroute.gpx",
+  "opmerking": null
+ }
+]

@@ -1,4 +1,5 @@
 // OutdoorMap – kaart met wandelingen per gebied
+// Data: data/gebieden.json, data/routes.json (de route + bron), data/walks.json (elke keer gelopen)
 
 // Decodeert een Google encoded polyline naar [[lat, lng], ...]
 function decodePolyline(str) {
@@ -20,6 +21,9 @@ function decodePolyline(str) {
   return coords;
 }
 
+const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+const fmtKm = km => km == null ? '?' : (Math.round(km * 10) / 10).toString().replace('.', ',');
+
 const map = L.map('map');
 
 const baseLayers = {
@@ -39,45 +43,82 @@ const hikingOverlay = L.tileLayer('https://tile.waymarkedtrails.org/hiking/{z}/{
   maxZoom: 18, opacity: 0.8, attribution: '© waymarkedtrails.org'
 });
 
-fetch('data/walks.json')
-  .then(r => r.json())
-  .then(({ regions, walks }) => {
-    const groups = {}, lines = {}, overlays = {};
+function routePopup(route, gebied, walks) {
+  const bron = route.bron.url
+    ? `<a href="${esc(route.bron.url)}" target="_blank" rel="noopener">${esc(route.bron.naam)}</a>`
+    : esc(route.bron.naam || 'onbekend');
+  const status = walks.length
+    ? `Gelopen (${walks.length}x): ` + walks.map(w =>
+        `<a href="https://www.strava.com/activities/${w.strava_id}" target="_blank" rel="noopener">${w.datum}</a>`).join(', ')
+    : 'Nog niet gelopen';
+  const extra = [];
+  if (route.graad) extra.push(`graad ${route.graad} (${esc(route.graad_kleur)})`);
+  if (route.hindernissen.length) extra.push('hindernissen: ' + route.hindernissen.map(esc).join(', '));
+  return `<b>${esc(route.code)} – ${esc(route.naam)}</b><br>` +
+         `${esc(gebied.naam)} (${esc(gebied.land)}) · ${fmtKm(route.km)} km${route.hm ? ` · ${route.hm} hm` : ''}<br>` +
+         `Bron: ${bron}<br>${status}` +
+         (extra.length ? `<br><span class="muted">${extra.join(' · ')}</span>` : '');
+}
 
-    regions.forEach(r => {
-      groups[r.id] = L.featureGroup().addTo(map);
-      const n = walks.filter(w => w.region === r.id).length;
-      overlays[`<span class="swatch" style="background:${r.color}"></span> ${r.name} – ${r.land} (${n})`] = groups[r.id];
+Promise.all(['gebieden', 'routes', 'walks'].map(n => fetch(`data/${n}.json`).then(r => r.json())))
+  .then(([{ gebieden }, routes, walks]) => {
+    const gebied = Object.fromEntries(gebieden.map(g => [g.id, g]));
+    const route = Object.fromEntries(routes.map(r => [r.code, r]));
+    const walksPerRoute = {};
+    walks.forEach(w => (walksPerRoute[w.route] ??= []).push(w));
+
+    const groups = {}, lines = {}, overlays = {};
+    const todo = L.featureGroup();  // startpunten van nog niet gelopen routes
+
+    // Alleen gebieden met gelopen wandelingen krijgen een eigen laag
+    const actief = gebieden.filter(g => routes.some(r => r.gebied === g.id && walksPerRoute[r.code]));
+    actief.forEach(g => {
+      groups[g.id] = L.featureGroup().addTo(map);
+      const n = routes.filter(r => r.gebied === g.id && walksPerRoute[r.code]).length;
+      overlays[`<span class="swatch" style="background:${g.kleur}"></span> ${g.naam} – ${g.land} (${n})`] = groups[g.id];
     });
-    overlays['🥾 Wandelroutes (Waymarked Trails)'] = hikingOverlay;
 
     walks.forEach(w => {
-      const region = regions.find(r => r.id === w.region);
-      const line = L.polyline(decodePolyline(w.polyline), { color: region.color, weight: 4, opacity: 0.9 })
-        .bindPopup(`<b>${w.name}</b><br>${w.date} · ${w.km} km · ${w.hm} hm<br>` +
-                   `<a href="https://www.strava.com/activities/${w.id}" target="_blank" rel="noopener">Open in Strava</a>`);
-      line.addTo(groups[w.region]);
-      lines[w.id] = line;
+      const r = route[w.route], g = gebied[r.gebied];
+      const line = L.polyline(decodePolyline(w.polyline), { color: g.kleur, weight: 4, opacity: 0.9 })
+        .bindPopup(routePopup(r, g, walksPerRoute[r.code]));
+      line.addTo(groups[g.id]);
+      lines[w.strava_id] = line;
     });
+
+    routes.filter(r => !walksPerRoute[r.code] && r.start).forEach(r => {
+      const g = gebied[r.gebied];
+      L.circleMarker(r.start, { radius: 6, color: g.kleur, weight: 2, fillColor: '#fff', fillOpacity: 0.9 })
+        .bindPopup(routePopup(r, g, []))
+        .addTo(todo);
+    });
+    overlays['○ Nog niet gelopen (startpunten)'] = todo;
+    overlays['🥾 Wandelroutes (Waymarked Trails)'] = hikingOverlay;
 
     L.control.layers(baseLayers, overlays, { collapsed: window.innerWidth < 700 }).addTo(map);
     map.fitBounds(L.featureGroup(Object.values(lines)).getBounds());
 
-    // Lijst per gebied, nieuwste eerst
+    // Lijst per gebied: routes met alle datums, nieuwste eerst
     const list = document.getElementById('list');
-    regions.forEach(r => {
-      const ws = walks.filter(w => w.region === r.id).sort((a, b) => b.date.localeCompare(a.date));
-      const km = ws.reduce((s, w) => s + w.km, 0);
+    actief.forEach(g => {
+      const rs = routes.filter(r => r.gebied === g.id && walksPerRoute[r.code])
+        .sort((a, b) => walksPerRoute[b.code][0].datum.localeCompare(walksPerRoute[a.code][0].datum));
+      const nWalks = rs.reduce((s, r) => s + walksPerRoute[r.code].length, 0);
       const h = document.createElement('h2');
-      h.innerHTML = `<span class="swatch" style="background:${r.color}"></span>${r.name} ` +
-                    `<span class="muted">– ${r.land} · ${ws.length}× · ${km.toFixed(0)} km</span>`;
-      h.onclick = () => map.fitBounds(groups[r.id].getBounds(), { padding: [30, 30] });
+      h.innerHTML = `<span class="swatch" style="background:${g.kleur}"></span>${esc(g.naam)} ` +
+                    `<span class="muted">– ${esc(g.land)} · ${rs.length} routes · ${nWalks}× gelopen</span>`;
+      h.onclick = () => map.fitBounds(groups[g.id].getBounds(), { padding: [30, 30] });
       list.appendChild(h);
-      ws.forEach(w => {
+      rs.forEach(r => {
+        const ws = walksPerRoute[r.code];
         const d = document.createElement('div');
         d.className = 'walk';
-        d.innerHTML = `${w.date} – ${w.name} <span class="muted">(${w.km} km, ${w.hm} hm)</span>`;
-        d.onclick = () => { map.fitBounds(lines[w.id].getBounds(), { padding: [30, 30] }); lines[w.id].openPopup(); };
+        d.innerHTML = `${esc(r.naam)} <span class="muted">(${fmtKm(r.km)} km · ${ws.map(w => w.datum).join(', ')})</span>`;
+        d.onclick = () => {
+          const ls = ws.map(w => lines[w.strava_id]);
+          map.fitBounds(L.featureGroup(ls).getBounds(), { padding: [30, 30] });
+          ls[0].openPopup();
+        };
         list.appendChild(d);
       });
     });
