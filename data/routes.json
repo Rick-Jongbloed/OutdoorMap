@@ -3733,5 +3733,4233 @@
   },
   "gpx_bron": "ZICHEMroute.gpx",
   "opmerking": null
+ },
+ {
+  "code": "EIG-NOORD-BRABANT-20201024",
+  "naam": "Wandeling Noord-Brabant (2020-10-24)",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "noord-brabant",
+  "plaats": null,
+  "start": [
+   51.58392,
+   5.31871
+  ],
+  "km": 20.8,
+  "hm": 36,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "FW-ns-wandeling-nationaal-park-veluwezoom-wandeltocht-van-dieren-naar-rheden-of-velp",
+  "naam": "NS wandeling Dieren-Velp",
+  "bron": {
+   "naam": "frankwandelt.nl",
+   "url": "https://www.frankwandelt.nl/gelderland/ns-wandeling-nationaal-park-veluwezoom-wandeltocht-van-dieren-naar-rheden-of-velp"
+  },
+  "gebied": "veluwezoom",
+  "plaats": null,
+  "start": [
+   52.04445,
+   6.10259
+  ],
+  "km": 18.2,
+  "hm": 303,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-ZUID-VELUWE-20201212",
+  "naam": "Wandeling Zuid-Veluwe (2020-12-12)",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "zuid-veluwe",
+  "plaats": null,
+  "start": [
+   52.0284,
+   5.67193
+  ],
+  "km": 18.1,
+  "hm": 114,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-OTTERLO-GROENE-WISSEL",
+  "naam": "Otterlo, groene wissel",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "veluwe",
+  "plaats": null,
+  "start": [
+   52.1035,
+   5.77107
+  ],
+  "km": 11.4,
+  "hm": 41,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-NOORD-EN-MIDDEN-LIMBURG-20210131",
+  "naam": "Wandeling Noord- en Midden-Limburg (2021-01-31)",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "noord-midden-limburg",
+  "plaats": null,
+  "start": [
+   51.53419,
+   6.13605
+  ],
+  "km": 17.5,
+  "hm": 64,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-WINTERWANDELING-ALMERE",
+  "naam": "Winterwandeling Almere",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "flevoland",
+  "plaats": null,
+  "start": [
+   52.40539,
+   5.29929
+  ],
+  "km": 18.0,
+  "hm": 12,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-FLEVOLAND-20210318",
+  "naam": "Wandeling Flevoland (2021-03-18)",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "flevoland",
+  "plaats": null,
+  "start": [
+   52.27618,
+   5.66607
+  ],
+  "km": 7.0,
+  "hm": 33,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-UTRECHTSE-HEUVELRUG-20210319",
+  "naam": "Wandeling Utrechtse Heuvelrug (2021-03-19)",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "utrechtse-heuvelrug",
+  "plaats": null,
+  "start": [
+   52.0189,
+   5.41959
+  ],
+  "km": 6.1,
+  "hm": 52,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-OOST-NEDERLAND-20210405",
+  "naam": "Wandeling Oost-Nederland (2021-04-05)",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "oost-nederland",
+  "plaats": null,
+  "start": [
+   52.25192,
+   6.87722
+  ],
+  "km": 16.7,
+  "hm": 22,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "GW-11829",
+  "naam": "Groene Wissel 135: 't Harde 2",
+  "bron": {
+   "naam": "wandelzoekpagina.nl",
+   "url": "https://www.wandelzoekpagina.nl/wandeling/groene-wissel-t-harde-2/11829/"
+  },
+  "gebied": "veluwe",
+  "plaats": null,
+  "start": [
+   52.4085,
+   5.89163
+  ],
+  "km": 9.7,
+  "hm": 14,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "WN-1390",
+  "naam": "Boswandeling Grolloo",
+  "bron": {
+   "naam": "wandelnet.nl",
+   "url": "https://www.wandelnet.nl/wandelroute/1390/Het-Drentse-Grolloo"
+  },
+  "gebied": "drenthe",
+  "plaats": null,
+  "start": [
+   52.90507,
+   6.69973
+  ],
+  "km": 17.4,
+  "hm": 50,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-ZUID-LIMBURG-20210421",
+  "naam": "Wandeling Zuid-Limburg (2021-04-21)",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "zuid-limburg",
+  "plaats": null,
+  "start": [
+   50.86703,
+   5.79105
+  ],
+  "km": 3.9,
+  "hm": 27,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "VZL-59827",
+  "naam": "Hoogtewandeling Valkenburg",
+  "bron": {
+   "naam": "VisitZuidLimburg",
+   "url": "https://www.visitzuidlimburg.nl/te-doen-in-zuid-limburg/routes-in-zuid-limburg/detail/hoogtewandeling-valkenburg-aan-de-geul/59827"
+  },
+  "gebied": "zuid-limburg",
+  "plaats": null,
+  "start": [
+   50.87008,
+   5.83071
+  ],
+  "km": 17.2,
+  "hm": 375,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "NS-sint-pietersberg",
+  "naam": "NS-wandeling Sint-Pietersberg",
+  "bron": {
+   "naam": "NS wandelen",
+   "url": "https://www.ns.nl/dagje-uit/wandelen/sint-pietersberg.html"
+  },
+  "gebied": "zuid-limburg",
+  "plaats": null,
+  "start": [
+   50.85204,
+   5.7039
+  ],
+  "km": 16.9,
+  "hm": 150,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-UTRECHTSE-HEUVELRUG-20210505",
+  "naam": "Wandeling Utrechtse Heuvelrug (2021-05-05)",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "utrechtse-heuvelrug",
+  "plaats": null,
+  "start": [
+   52.06436,
+   5.37155
+  ],
+  "km": 12.6,
+  "hm": 109,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-OOST-NEDERLAND-20210513",
+  "naam": "Wandeling Oost-Nederland (2021-05-13)",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "oost-nederland",
+  "plaats": null,
+  "start": [
+   52.80499,
+   6.10489
+  ],
+  "km": 18.8,
+  "hm": 64,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-NOORD-HOLLANDSE-DUINEN-20210623",
+  "naam": "Wandeling Noord-Hollandse duinen (2021-06-23)",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "noord-hollandse-duinen",
+  "plaats": null,
+  "start": [
+   52.43397,
+   4.6319
+  ],
+  "km": 11.0,
+  "hm": 75,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-FLEVOLAND-20210627",
+  "naam": "Wandeling Flevoland (2021-06-27)",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "flevoland",
+  "plaats": null,
+  "start": [
+   52.27908,
+   5.62071
+  ],
+  "km": 9.8,
+  "hm": 38,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-VELUWEZOOM-20210714",
+  "naam": "Wandeling Veluwezoom (2021-07-14)",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "veluwezoom",
+  "plaats": null,
+  "start": [
+   52.18242,
+   5.84455
+  ],
+  "km": 4.6,
+  "hm": 48,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-LEMELERBERG",
+  "naam": "Lemelerberg",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "oost-nederland",
+  "plaats": null,
+  "start": [
+   52.45778,
+   6.39684
+  ],
+  "km": 6.1,
+  "hm": 94,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-OOST-NEDERLAND-20210905",
+  "naam": "Wandeling Oost-Nederland (2021-09-05)",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "oost-nederland",
+  "plaats": null,
+  "start": [
+   52.45767,
+   6.39767
+  ],
+  "km": 11.3,
+  "hm": 172,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-VELUWE-20210907",
+  "naam": "Wandeling Veluwe (2021-09-07)",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "veluwe",
+  "plaats": null,
+  "start": [
+   52.25325,
+   5.80634
+  ],
+  "km": 7.2,
+  "hm": 39,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-RIJK-VAN-NIJMEGEN-20210916",
+  "naam": "Wandeling Rijk van Nijmegen (2021-09-16)",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "rijk-van-nijmegen",
+  "plaats": null,
+  "start": [
+   51.77005,
+   5.8907
+  ],
+  "km": 8.6,
+  "hm": 102,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-RIJK-VAN-NIJMEGEN-20210919",
+  "naam": "Wandeling Rijk van Nijmegen (2021-09-19)",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "rijk-van-nijmegen",
+  "plaats": null,
+  "start": [
+   51.73825,
+   5.91898
+  ],
+  "km": 13.9,
+  "hm": 151,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-RIJK-VAN-NIJMEGEN-20211002",
+  "naam": "Wandeling Rijk van Nijmegen (2021-10-02)",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "rijk-van-nijmegen",
+  "plaats": null,
+  "start": [
+   51.73827,
+   5.92082
+  ],
+  "km": 3.5,
+  "hm": 42,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-NOORD-BRABANT-20211016",
+  "naam": "Wandeling Noord-Brabant (2021-10-16)",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "noord-brabant",
+  "plaats": null,
+  "start": [
+   51.56177,
+   5.19666
+  ],
+  "km": 9.5,
+  "hm": 48,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-VELUWEZOOM-20211113",
+  "naam": "Wandeling Veluwezoom (2021-11-13)",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "veluwezoom",
+  "plaats": null,
+  "start": [
+   52.00299,
+   5.98207
+  ],
+  "km": 16.9,
+  "hm": 366,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-RIJK-VAN-NIJMEGEN-20211211",
+  "naam": "Wandeling Rijk van Nijmegen (2021-12-11)",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "rijk-van-nijmegen",
+  "plaats": null,
+  "start": [
+   51.7916,
+   5.79772
+  ],
+  "km": 16.2,
+  "hm": 50,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-RIJK-VAN-NIJMEGEN-20220110",
+  "naam": "Wandeling Rijk van Nijmegen (2022-01-10)",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "rijk-van-nijmegen",
+  "plaats": null,
+  "start": [
+   51.73811,
+   5.92095
+  ],
+  "km": 9.9,
+  "hm": 199,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "FW-ov-stapper-westerbouwing-van-arnhem-naar-heelsum",
+  "naam": "OV-stapper Westerbouwing | Station Arnhem - Heelsum",
+  "bron": {
+   "naam": "frankwandelt.nl",
+   "url": "https://www.frankwandelt.nl/gelderland/ov-stapper-westerbouwing-van-arnhem-naar-heelsum"
+  },
+  "gebied": "veluwezoom",
+  "plaats": null,
+  "start": [
+   51.98395,
+   5.90293
+  ],
+  "km": 19.7,
+  "hm": 215,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "FW-ov-stapper-amerongse-bos-rhenen-amerongen",
+  "naam": "OV Stapper Amerongse Bos",
+  "bron": {
+   "naam": "frankwandelt.nl",
+   "url": "https://www.frankwandelt.nl/utrecht/ov-stapper-amerongse-bos-rhenen-amerongen"
+  },
+  "gebied": "utrechtse-heuvelrug",
+  "plaats": null,
+  "start": [
+   51.95768,
+   5.57819
+  ],
+  "km": 20.0,
+  "hm": 247,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-RIJK-VAN-NIJMEGEN-20220212",
+  "naam": "Wandeling Rijk van Nijmegen (2022-02-12)",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "rijk-van-nijmegen",
+  "plaats": null,
+  "start": [
+   51.78418,
+   5.93319
+  ],
+  "km": 22.0,
+  "hm": 447,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-SAUERLAND-WILDEWIESE",
+  "naam": "Sauerland - Wildewiese",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "sauerland",
+  "plaats": null,
+  "start": [
+   51.22444,
+   7.99638
+  ],
+  "km": 9.5,
+  "hm": 291,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-SAUERLAND-20220308",
+  "naam": "Wandeling Sauerland (2022-03-08)",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "sauerland",
+  "plaats": null,
+  "start": [
+   51.2826,
+   8.61011
+  ],
+  "km": 7.6,
+  "hm": 178,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-RONDJE-OP-DE-ROTGAARSTEI",
+  "naam": "Rondje op de Rotgaarsteig. Fitbit op aan het einde, laatste 4 km missen.",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "sauerland",
+  "plaats": null,
+  "start": [
+   51.11326,
+   8.33463
+  ],
+  "km": 13.1,
+  "hm": 379,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-SAUERLAND-20220310",
+  "naam": "Wandeling Sauerland (2022-03-10)",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "sauerland",
+  "plaats": null,
+  "start": [
+   51.15709,
+   8.43152
+  ],
+  "km": 21.4,
+  "hm": 647,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-UTRECHTSE-HEUVELRUG-20220322",
+  "naam": "Wandeling Utrechtse Heuvelrug (2022-03-22)",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "utrechtse-heuvelrug",
+  "plaats": null,
+  "start": [
+   52.06785,
+   5.31461
+  ],
+  "km": 7.3,
+  "hm": 11,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-ZUID-VELUWE-20220402",
+  "naam": "Wandeling Zuid-Veluwe (2022-04-02)",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "zuid-veluwe",
+  "plaats": null,
+  "start": [
+   51.99729,
+   5.67724
+  ],
+  "km": 17.5,
+  "hm": 94,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-VELUWE-20220420",
+  "naam": "Wandeling Veluwe (2022-04-20)",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "veluwe",
+  "plaats": null,
+  "start": [
+   52.24667,
+   5.55234
+  ],
+  "km": 9.6,
+  "hm": 2,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-NOORD-HOLLANDSE-DUINEN-20220423",
+  "naam": "Wandeling Noord-Hollandse duinen (2022-04-23)",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "noord-hollandse-duinen",
+  "plaats": null,
+  "start": [
+   52.54496,
+   4.6556
+  ],
+  "km": 21.5,
+  "hm": 125,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-VELUWEZOOM-20220511",
+  "naam": "Wandeling Veluwezoom (2022-05-11)",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "veluwezoom",
+  "plaats": null,
+  "start": [
+   52.06393,
+   5.90021
+  ],
+  "km": 8.8,
+  "hm": 64,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-MULLERTHAL-20220527",
+  "naam": "Wandeling Mullerthal (2022-05-27)",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "mullerthal",
+  "plaats": null,
+  "start": [
+   49.8216,
+   6.34906
+  ],
+  "km": 19.5,
+  "hm": 459,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-BOSWACHTERPAD-AMERONGSE",
+  "naam": "Boswachterpad Amerongse Berg",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "utrechtse-heuvelrug",
+  "plaats": null,
+  "start": [
+   52.0253,
+   5.51756
+  ],
+  "km": 10.5,
+  "hm": 76,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-HOGE-VENEN-20220606",
+  "naam": "Wandeling Hoge Venen (2022-06-06)",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "hoge-venen",
+  "plaats": null,
+  "start": [
+   50.50626,
+   6.05437
+  ],
+  "km": 1.8,
+  "hm": 18,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-N70-NIJMEGEN-BLIJFT-TOCH",
+  "naam": "N70, Nijmegen. Blijft toch een van de mooiste wandelingen in Nederland",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "rijk-van-nijmegen",
+  "plaats": null,
+  "start": [
+   51.82846,
+   5.92629
+  ],
+  "km": 17.8,
+  "hm": 469,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-RONDWANDELING-RONSE",
+  "naam": "Rondwandeling Ronse",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "vlaanderen",
+  "plaats": null,
+  "start": [
+   50.75047,
+   3.60471
+  ],
+  "km": 16.7,
+  "hm": 270,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "KO-866265855",
+  "naam": "Ad hoc wandeling langs de Swalm",
+  "bron": {
+   "naam": "Komoot",
+   "url": "https://www.komoot.nl/tour/866265855"
+  },
+  "gebied": "noord-midden-limburg",
+  "plaats": null,
+  "start": [
+   51.22999,
+   6.09619
+  ],
+  "km": 13.1,
+  "hm": 61,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-OOST-NEDERLAND-20220801",
+  "naam": "Wandeling Oost-Nederland (2022-08-01)",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "oost-nederland",
+  "plaats": null,
+  "start": [
+   52.36466,
+   6.43994
+  ],
+  "km": 4.8,
+  "hm": 36,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-OOST-NEDERLAND-20220803",
+  "naam": "Wandeling Oost-Nederland (2022-08-03)",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "oost-nederland",
+  "plaats": null,
+  "start": [
+   51.90272,
+   6.19997
+  ],
+  "km": 15.1,
+  "hm": 222,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-NOORD-BRABANT-20220806",
+  "naam": "Wandeling Noord-Brabant (2022-08-06)",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "noord-brabant",
+  "plaats": null,
+  "start": [
+   51.34048,
+   5.17901
+  ],
+  "km": 17.7,
+  "hm": 15,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "AWD-61",
+  "naam": "Amsterdamse waterleidingduinen",
+  "bron": {
+   "naam": "Amsterdamse Waterleidingduinen (Waternet)",
+   "url": "https://awd.waternet.nl/beleef/wandelroutes/detail/61"
+  },
+  "gebied": "noord-hollandse-duinen",
+  "plaats": null,
+  "start": [
+   52.34565,
+   4.58198
+  ],
+  "km": 11.0,
+  "hm": 51,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-HOGE-VENEN-20220828",
+  "naam": "Wandeling Hoge Venen (2022-08-28)",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "hoge-venen",
+  "plaats": null,
+  "start": [
+   50.63542,
+   6.12959
+  ],
+  "km": 19.6,
+  "hm": 199,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-OVERIG-BUITENLAND-20220901",
+  "naam": "Wandeling Overig buitenland (2022-09-01)",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "overig-buitenland",
+  "plaats": null,
+  "start": [
+   51.84625,
+   8.96556
+  ],
+  "km": 17.9,
+  "hm": 480,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-FLEVOLAND-20220907",
+  "naam": "Wandeling Flevoland (2022-09-07)",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "flevoland",
+  "plaats": null,
+  "start": [
+   52.48316,
+   5.52866
+  ],
+  "km": 8.8,
+  "hm": 6,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "PR-wasser-wander-welt-7-het-leudal",
+  "naam": "Wandeling Noord- en Midden-Limburg (2022-09-25)",
+  "bron": {
+   "naam": "profirouten.de",
+   "url": "https://profirouten.de/niederrhein/wasser-wander-welt-7-het-leudal"
+  },
+  "gebied": "noord-midden-limburg",
+  "plaats": null,
+  "start": [
+   51.24971,
+   5.93667
+  ],
+  "km": 17.5,
+  "hm": 66,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-HOOG-SOEREN-PAALTJESWAND",
+  "naam": "Hoog Soeren, paaltjeswandeling groen, schemerwandeling",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "veluwe",
+  "plaats": null,
+  "start": [
+   52.22637,
+   5.87412
+  ],
+  "km": 3.6,
+  "hm": 25,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-EPE-PAALTJESWANDELING-RO",
+  "naam": "Epe, paaltjeswandeling rood",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "veluwe",
+  "plaats": null,
+  "start": [
+   52.2974,
+   5.92591
+  ],
+  "km": 6.8,
+  "hm": 16,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-DAGJE-LOPEN-MET-EEN-EZEL",
+  "naam": "Dagje lopen met een ezel van de Ezelshoeve",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "noord-brabant",
+  "plaats": null,
+  "start": [
+   51.44734,
+   4.913
+  ],
+  "km": 9.2,
+  "hm": 27,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-UTRECHTSE-HEUVELRUG-20221026",
+  "naam": "Wandeling Utrechtse Heuvelrug (2022-10-26)",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "utrechtse-heuvelrug",
+  "plaats": null,
+  "start": [
+   52.20118,
+   5.23268
+  ],
+  "km": 4.2,
+  "hm": 24,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "WN-1404",
+  "naam": "Roots wandeling 12 - Nationaal park Veluwezoom",
+  "bron": {
+   "naam": "wandelnet.nl",
+   "url": "https://www.wandelnet.nl/wandelroute/1404/Nationaal-park-Veluwezoom"
+  },
+  "gebied": "veluwezoom",
+  "plaats": null,
+  "start": [
+   52.01489,
+   6.02938
+  ],
+  "km": 16.2,
+  "hm": 313,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-VELUWE-20230107",
+  "naam": "Wandeling Veluwe (2023-01-07)",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "veluwe",
+  "plaats": null,
+  "start": [
+   52.29126,
+   5.96566
+  ],
+  "km": 13.8,
+  "hm": 30,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-KLOMPENPAD-SCHAARBEEK-RO",
+  "naam": "Klompenpad Schaarbeek + Rosindepad",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "veluwezoom",
+  "plaats": null,
+  "start": [
+   52.02215,
+   5.87247
+  ],
+  "km": 28.7,
+  "hm": 242,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-GROENE-WISSEL-DORNWERTH",
+  "naam": "Groene wissel Dornwerth",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "zuid-veluwe",
+  "plaats": null,
+  "start": [
+   51.96797,
+   5.78809
+  ],
+  "km": 17.7,
+  "hm": 191,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-TRAGE-TOCHT-BLARICUM-NA",
+  "naam": "Trage tocht Blaricum na werk",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "flevoland",
+  "plaats": null,
+  "start": [
+   52.27533,
+   5.22635
+  ],
+  "km": 10.0,
+  "hm": 54,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-VELUWE-20230405",
+  "naam": "Wandeling Veluwe (2023-04-05)",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "veluwe",
+  "plaats": null,
+  "start": [
+   52.34246,
+   5.70821
+  ],
+  "km": 7.7,
+  "hm": 13,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-FLEVOLAND-20230419",
+  "naam": "Wandeling Flevoland (2023-04-19)",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "flevoland",
+  "plaats": null,
+  "start": [
+   52.48324,
+   5.52994
+  ],
+  "km": 6.4,
+  "hm": 13,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-VELUWE-20230503",
+  "naam": "Wandeling Veluwe (2023-05-03)",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "veluwe",
+  "plaats": null,
+  "start": [
+   52.30368,
+   5.71485
+  ],
+  "km": 5.8,
+  "hm": 14,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-UTRECHTSE-HEUVELRUG-20230607",
+  "naam": "Wandeling Utrechtse Heuvelrug (2023-06-07)",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "utrechtse-heuvelrug",
+  "plaats": null,
+  "start": [
+   51.99818,
+   5.47317
+  ],
+  "km": 9.0,
+  "hm": 117,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-WANDELINGETJE-LANDGOED-W",
+  "naam": "Wandelingetje Landgoed Warsnborn",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "veluwezoom",
+  "plaats": null,
+  "start": [
+   52.00755,
+   5.87177
+  ],
+  "km": 6.6,
+  "hm": 62,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-KLOMPENPAD-HARTENSEPAD-H",
+  "naam": "Klompenpad Hartensepad. Het beekdal hier is mooooi :-)",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "zuid-veluwe",
+  "plaats": null,
+  "start": [
+   51.9813,
+   5.72245
+  ],
+  "km": 15.1,
+  "hm": 86,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "NM-nationaal-park-veluwezoom-wandelroute-herikhuizen-veluwezoom-bij-arnhem",
+  "naam": "Wandeling Veluwezoom (2023-07-14)",
+  "bron": {
+   "naam": "Natuurmonumenten",
+   "url": "https://www.natuurmonumenten.nl/natuurgebieden/nationaal-park-veluwezoom/route/wandelroute-herikhuizen-veluwezoom-bij-arnhem"
+  },
+  "gebied": "veluwezoom",
+  "plaats": null,
+  "start": [
+   52.01679,
+   6.02554
+  ],
+  "km": 15.8,
+  "hm": 320,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-NOORD-HOLLANDSE-DUINEN-20230719",
+  "naam": "Wandeling Noord-Hollandse duinen (2023-07-19)",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "noord-hollandse-duinen",
+  "plaats": null,
+  "start": [
+   52.33138,
+   4.56594
+  ],
+  "km": 10.0,
+  "hm": 28,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-VELUWEZOOM-20230804",
+  "naam": "Wandeling Veluwezoom (2023-08-04)",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "veluwezoom",
+  "plaats": null,
+  "start": [
+   52.02925,
+   6.02248
+  ],
+  "km": 8.0,
+  "hm": 152,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-KLOMPENPAD-SONNEVANCKPAD",
+  "naam": "Klompenpad Sonnevanckpad",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "flevoland",
+  "plaats": null,
+  "start": [
+   52.32144,
+   5.66178
+  ],
+  "km": 10.5,
+  "hm": 40,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-UTRECHTSE-HEUVELRUG-20230808",
+  "naam": "Wandeling Utrechtse Heuvelrug (2023-08-08)",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "utrechtse-heuvelrug",
+  "plaats": null,
+  "start": [
+   52.01951,
+   5.41959
+  ],
+  "km": 6.9,
+  "hm": 34,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-KLIMMEN-EN-KLAUTEREN-RIC",
+  "naam": "Klimmen en klauteren Richtis Gorge",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "overig-buitenland",
+  "plaats": null,
+  "start": [
+   35.1643,
+   25.98907
+  ],
+  "km": 10.1,
+  "hm": 355,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-VIA-FERRATA-WOW",
+  "naam": "Via Ferrata.... wow",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "overig-buitenland",
+  "plaats": null,
+  "start": [
+   34.9565,
+   25.05257
+  ],
+  "km": 3.8,
+  "hm": 964,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-VELUWEZOOM-20230902",
+  "naam": "Wandeling Veluwezoom (2023-09-02)",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "veluwezoom",
+  "plaats": null,
+  "start": [
+   52.1784,
+   5.91239
+  ],
+  "km": 11.0,
+  "hm": 78,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-UTRECHTSE-HEUVELRUG-20230905",
+  "naam": "Wandeling Utrechtse Heuvelrug (2023-09-05)",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "utrechtse-heuvelrug",
+  "plaats": null,
+  "start": [
+   52.04518,
+   5.35395
+  ],
+  "km": 9.6,
+  "hm": 110,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-VELUWE-20230911",
+  "naam": "Wandeling Veluwe (2023-09-11)",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "veluwe",
+  "plaats": null,
+  "start": [
+   52.23306,
+   5.92636
+  ],
+  "km": 8.3,
+  "hm": 19,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-MOOIE-WANDELING-RANSDAAL",
+  "naam": "Mooie wandeling Ransdaal - Limburgs uitzicht",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "zuid-limburg",
+  "plaats": null,
+  "start": [
+   50.86658,
+   5.89028
+  ],
+  "km": 23.9,
+  "hm": 373,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-VELUWE-20231003",
+  "naam": "Wandeling Veluwe (2023-10-03)",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "veluwe",
+  "plaats": null,
+  "start": [
+   52.37121,
+   5.97895
+  ],
+  "km": 7.8,
+  "hm": 27,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "GPSW-zevenheuvelen",
+  "naam": "Zevenheuvelen wandeling + stukkie extra",
+  "bron": {
+   "naam": "gps-wijzer.nl",
+   "url": "https://www.gps-wijzer.nl/placemarks/zevenheuvelen/"
+  },
+  "gebied": "rijk-van-nijmegen",
+  "plaats": null,
+  "start": [
+   51.82228,
+   5.90923
+  ],
+  "km": 23.2,
+  "hm": 488,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "FW-groene-wissel-bunde-geuller-en-bunderbos",
+  "naam": "Groene Wissel Bunde -Geuller & Bundebos",
+  "bron": {
+   "naam": "frankwandelt.nl",
+   "url": "https://www.frankwandelt.nl/limburg/groene-wissel-bunde-geuller-en-bunderbos"
+  },
+  "gebied": "zuid-limburg",
+  "plaats": null,
+  "start": [
+   50.89626,
+   5.73653
+  ],
+  "km": 21.3,
+  "hm": 373,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-RONDJE-NATIONAAL-PARK-ME",
+  "naam": "Rondje Nationaal park Meinweg",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "noord-midden-limburg",
+  "plaats": null,
+  "start": [
+   51.18471,
+   6.06582
+  ],
+  "km": 22.0,
+  "hm": 158,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-WANDELEN-OP-STUWWAL-BIJ",
+  "naam": "Wandelen op stuwwal bij Doornwerth",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "zuid-veluwe",
+  "plaats": null,
+  "start": [
+   51.96973,
+   5.78023
+  ],
+  "km": 20.1,
+  "hm": 318,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "WL-88105054",
+  "naam": "Wandeling Zuid-Veluwe (2023-12-23)",
+  "bron": {
+   "naam": "Wikiloc",
+   "url": "https://nl.wikiloc.com/routes-wandelen/doorwerth-88105054"
+  },
+  "gebied": "zuid-veluwe",
+  "plaats": null,
+  "start": [
+   51.98573,
+   5.79228
+  ],
+  "km": 19.3,
+  "hm": 241,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-KORT-RONDJE-REICHSWALD",
+  "naam": "Kort rondje Reichswald",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "rijk-van-nijmegen",
+  "plaats": null,
+  "start": [
+   51.74808,
+   6.03422
+  ],
+  "km": 7.2,
+  "hm": 78,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-RIJK-VAN-NIJMEGEN-20240113",
+  "naam": "Wandeling Rijk van Nijmegen (2024-01-13)",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "rijk-van-nijmegen",
+  "plaats": null,
+  "start": [
+   51.82209,
+   5.90962
+  ],
+  "km": 6.1,
+  "hm": 160,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-TRAGE-TOCHT-BOSWACHTERIJ",
+  "naam": "Trage tocht Boswachterij Grolloo, wat een speciaal moeraslandschap!! Aanrader (Wel met waterdichte schoenen)",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "drenthe",
+  "plaats": null,
+  "start": [
+   52.90169,
+   6.67235
+  ],
+  "km": 22.0,
+  "hm": 43,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-KORT-RONDJE-GRAFHEUVELS",
+  "naam": "Kort rondje grafheuvels",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "flevoland",
+  "plaats": null,
+  "start": [
+   52.26476,
+   5.67938
+  ],
+  "km": 8.4,
+  "hm": 42,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-FLEVOLAND-20240211",
+  "naam": "Wandeling Flevoland (2024-02-11)",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "flevoland",
+  "plaats": null,
+  "start": [
+   52.26868,
+   5.67228
+  ],
+  "km": 8.0,
+  "hm": 44,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-OOSTENRIJK-20240226",
+  "naam": "Wandeling Oostenrijk (2024-02-26)",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "oostenrijk",
+  "plaats": null,
+  "start": [
+   47.27658,
+   13.31953
+  ],
+  "km": 14.7,
+  "hm": 227,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "WL-113651519",
+  "naam": "Wandeling Drenthe (2024-03-02)",
+  "bron": {
+   "naam": "Wikiloc",
+   "url": "https://nl.wikiloc.com/routes-wandelen/gasselte-113651519"
+  },
+  "gebied": "drenthe",
+  "plaats": null,
+  "start": [
+   52.9512,
+   6.74413
+  ],
+  "km": 15.8,
+  "hm": 68,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "GW-15385",
+  "naam": "Groene Wissel 531: Hooghalen 2",
+  "bron": {
+   "naam": "wandelzoekpagina.nl",
+   "url": "https://www.wandelzoekpagina.nl/wandeling/groene-wissel-hooghalen-2/15385/"
+  },
+  "gebied": "drenthe",
+  "plaats": null,
+  "start": [
+   52.92054,
+   6.53864
+  ],
+  "km": 19.9,
+  "hm": 34,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-MIDDAGJE-IN-NATUURPARK-L",
+  "naam": "Middagje in natuurpark lelystad",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "flevoland",
+  "plaats": null,
+  "start": [
+   52.4891,
+   5.53887
+  ],
+  "km": 8.2,
+  "hm": 6,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-UTRECHTSE-HEUVELRUG-20240410",
+  "naam": "Wandeling Utrechtse Heuvelrug (2024-04-10)",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "utrechtse-heuvelrug",
+  "plaats": null,
+  "start": [
+   52.09212,
+   5.36153
+  ],
+  "km": 5.5,
+  "hm": 54,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-ZUID-VELUWE-20240413",
+  "naam": "Wandeling Zuid-Veluwe (2024-04-13)",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "zuid-veluwe",
+  "plaats": null,
+  "start": [
+   51.98707,
+   5.73003
+  ],
+  "km": 12.9,
+  "hm": 62,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-ZUID-VELUWE-20240413-2",
+  "naam": "Wandeling Zuid-Veluwe (2024-04-13)",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "zuid-veluwe",
+  "plaats": null,
+  "start": [
+   51.98701,
+   5.73002
+  ],
+  "km": 20.5,
+  "hm": 92,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-DRENTHE-20240504",
+  "naam": "Wandeling Drenthe (2024-05-04)",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "drenthe",
+  "plaats": null,
+  "start": [
+   53.03038,
+   6.67537
+  ],
+  "km": 21.2,
+  "hm": 14,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-KNAPZAK-WANDELING-GASTER",
+  "naam": "Knapzak wandeling Gasteren",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "drenthe",
+  "plaats": null,
+  "start": [
+   53.03729,
+   6.66367
+  ],
+  "km": 23.9,
+  "hm": 21,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-WANDELINGETJE-ROND-NATUU",
+  "naam": "Wandelingetje rond natuurpark Lelystad",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "flevoland",
+  "plaats": null,
+  "start": [
+   52.48307,
+   5.5283
+  ],
+  "km": 10.2,
+  "hm": 14,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-TREKVOGELPAD-16-OTTERLO",
+  "naam": "Trekvogelpad 16 - Otterlo naar Hoenderloo - Door de Hoge veluwe",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "veluwe",
+  "plaats": null,
+  "start": [
+   52.10355,
+   5.76944
+  ],
+  "km": 22.8,
+  "hm": 150,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-WILD-SPOTTEN-MET-DE-BOSW",
+  "naam": "👌Wild spotten met de boswachters van natuurmonumenten op de Veluwezoom👌",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "veluwezoom",
+  "plaats": null,
+  "start": [
+   52.01625,
+   6.02501
+  ],
+  "km": 6.4,
+  "hm": 109,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-KLETTERSTEIG-HIKE-WASSER",
+  "naam": "Klettersteig hike - Wasserfalweg Stoissengaben",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "oostenrijk",
+  "plaats": null,
+  "start": [
+   47.46725,
+   12.82902
+  ],
+  "km": 8.8,
+  "hm": 406,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-OOSTENRIJK-20240802",
+  "naam": "Wandeling Oostenrijk (2024-08-02)",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "oostenrijk",
+  "plaats": null,
+  "start": [
+   47.58037,
+   12.49205
+  ],
+  "km": 7.7,
+  "hm": 286,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-OOSTENRIJK-20240803",
+  "naam": "Wandeling Oostenrijk (2024-08-03)",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "oostenrijk",
+  "plaats": null,
+  "start": [
+   47.12706,
+   10.94895
+  ],
+  "km": 5.0,
+  "hm": 106,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-OOSTENRIJK-20240803-2",
+  "naam": "Wandeling Oostenrijk (2024-08-03)",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "oostenrijk",
+  "plaats": null,
+  "start": [
+   47.13171,
+   10.93041
+  ],
+  "km": 2.0,
+  "hm": 168,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-IMST-KLETTERSTEIG",
+  "naam": "Imst Klettersteig",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "oostenrijk",
+  "plaats": null,
+  "start": [
+   47.26121,
+   10.66978
+  ],
+  "km": 0.3,
+  "hm": 36,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-OOSTENRIJK-20240804",
+  "naam": "Wandeling Oostenrijk (2024-08-04)",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "oostenrijk",
+  "plaats": null,
+  "start": [
+   47.25611,
+   10.67734
+  ],
+  "km": 1.8,
+  "hm": 76,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-TEUFELSGASSE-DUIVELSLABY",
+  "naam": "Teufelsgasse (Duivelslabyrinth) hike",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "oostenrijk",
+  "plaats": null,
+  "start": [
+   47.57284,
+   12.42714
+  ],
+  "km": 9.6,
+  "hm": 485,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-OOSTENRIJK-20240812",
+  "naam": "Wandeling Oostenrijk (2024-08-12)",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "oostenrijk",
+  "plaats": null,
+  "start": [
+   47.07468,
+   12.75143
+  ],
+  "km": 5.5,
+  "hm": 403,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-TRAGE-TOCHT-ALMEN",
+  "naam": "Trage tocht Almen",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "oost-nederland",
+  "plaats": null,
+  "start": [
+   52.15742,
+   6.30201
+  ],
+  "km": 13.8,
+  "hm": 33,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-STRUINEN-DOOR-BERG-EN-DA",
+  "naam": "Struinen door Berg en Dal en omstreken",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "rijk-van-nijmegen",
+  "plaats": null,
+  "start": [
+   51.82212,
+   5.90935
+  ],
+  "km": 32.0,
+  "hm": 931,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-DUINTOPPENWANDELING-SCHO",
+  "naam": "Duintoppenwandeling Schoorl",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "noord-hollandse-duinen",
+  "plaats": null,
+  "start": [
+   52.68587,
+   4.70115
+  ],
+  "km": 27.0,
+  "hm": 717,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-LANDGOED-BEEKHUIZEN-ROND",
+  "naam": "Landgoed Beekhuizen, rondje om Posbank en l\nLandgoed Dieren",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "veluwezoom",
+  "plaats": null,
+  "start": [
+   52.01103,
+   6.03179
+  ],
+  "km": 32.4,
+  "hm": 717,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-RONDJE-DOOR-EN-LANGS-HET",
+  "naam": "Rondje door en langs het Vijlenerbos",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "zuid-limburg",
+  "plaats": null,
+  "start": [
+   50.7889,
+   5.96406
+  ],
+  "km": 25.0,
+  "hm": 720,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-NS-WANDELING-DRIEBERGEN",
+  "naam": "NS Wandeling Driebergen naar Maarn",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "utrechtse-heuvelrug",
+  "plaats": null,
+  "start": [
+   52.0653,
+   5.26056
+  ],
+  "km": 15.9,
+  "hm": 81,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-RONDJE-DUINEN-SCHOORL-ME",
+  "naam": "Rondje duinen Schoorl met Menno",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "noord-hollandse-duinen",
+  "plaats": null,
+  "start": [
+   52.70614,
+   4.68886
+  ],
+  "km": 15.7,
+  "hm": 272,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-WANDELINGETJE-PALEISTUIN",
+  "naam": "Wandelingetje Paleistuinen met Clau",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "veluwe",
+  "plaats": null,
+  "start": [
+   52.23227,
+   5.92591
+  ],
+  "km": 13.6,
+  "hm": 53,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-NOORD-HOLLANDSE-DUINEN-20250501",
+  "naam": "Wandeling Noord-Hollandse duinen (2025-05-01)",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "noord-hollandse-duinen",
+  "plaats": null,
+  "start": [
+   52.71236,
+   4.64117
+  ],
+  "km": 3.5,
+  "hm": 14,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-HEIDEWANDELINGETJE-RADIO",
+  "naam": "Heidewandelingetje Radio Kootwijk met Clau",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "veluwezoom",
+  "plaats": null,
+  "start": [
+   52.18268,
+   5.84566
+  ],
+  "km": 13.1,
+  "hm": 115,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-KLIMMEN-MET-TOOLS",
+  "naam": "Klimmen met Tools",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "harz",
+  "plaats": null,
+  "start": [
+   51.75913,
+   10.66266
+  ],
+  "km": 2.9,
+  "hm": 365,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-OKER-KLIPPENTOUR-MET-TOO",
+  "naam": "Oker Klippentour met Tools!",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "harz",
+  "plaats": null,
+  "start": [
+   51.85806,
+   10.47093
+  ],
+  "km": 21.9,
+  "hm": 652,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-HIKEN-IN-HET-BODETAL-AVO",
+  "naam": "Hiken in het Bodetal! Avontuurlijke versie van de Benneckenrode circuit hike",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "harz",
+  "plaats": null,
+  "start": [
+   51.74069,
+   11.01772
+  ],
+  "km": 30.0,
+  "hm": 1035,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-KLETTERSTEIG-M-LENSLUCHT",
+  "naam": "Klettersteig Mölenslucht C/D",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "oostenrijk",
+  "plaats": null,
+  "start": [
+   47.03185,
+   12.85019
+  ],
+  "km": 2.5,
+  "hm": 114,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-ZWITSERLAND-20250730",
+  "naam": "Wandeling Zwitserland (2025-07-30)",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "zwitserland",
+  "plaats": null,
+  "start": [
+   47.84814,
+   8.44922
+  ],
+  "km": 14.7,
+  "hm": 372,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-ZWITSERLAND-20250731",
+  "naam": "Wandeling Zwitserland (2025-07-31)",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "zwitserland",
+  "plaats": null,
+  "start": [
+   46.65206,
+   7.91085
+  ],
+  "km": 18.8,
+  "hm": 1153,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-RONDJE-VANAF-HUIS-MENNO",
+  "naam": "Rondje vanaf huis Menno en Kelly",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "zwitserland",
+  "plaats": null,
+  "start": [
+   46.73411,
+   7.95734
+  ],
+  "km": 33.5,
+  "hm": 480,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-ZWITSERLAND-20250802",
+  "naam": "Wandeling Zwitserland (2025-08-02)",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "zwitserland",
+  "plaats": null,
+  "start": [
+   46.57457,
+   7.97498
+  ],
+  "km": 14.2,
+  "hm": 305,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-VELUWEZOOM-20250828",
+  "naam": "Wandeling Veluwezoom (2025-08-28)",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "veluwezoom",
+  "plaats": null,
+  "start": [
+   52.01678,
+   6.02598
+  ],
+  "km": 7.1,
+  "hm": 143,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-FLEVOLAND-20251011",
+  "naam": "Wandeling Flevoland (2025-10-11)",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "flevoland",
+  "plaats": null,
+  "start": [
+   52.26475,
+   5.67694
+  ],
+  "km": 11.9,
+  "hm": 69,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-STUIFDUINENWANDELING-SCH",
+  "naam": "Stuifduinenwandeling Schoorl",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "noord-hollandse-duinen",
+  "plaats": null,
+  "start": [
+   52.68619,
+   4.70124
+  ],
+  "km": 23.6,
+  "hm": 625,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-DIEREN-NAAR-RHEDEN-MET-M",
+  "naam": "Dieren naar Rheden met Menno",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "veluwezoom",
+  "plaats": null,
+  "start": [
+   52.04301,
+   6.08274
+  ],
+  "km": 11.7,
+  "hm": 226,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-NOORD-HOLLANDSE-DUINEN-20260314",
+  "naam": "Wandeling Noord-Hollandse duinen (2026-03-14)",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "noord-hollandse-duinen",
+  "plaats": null,
+  "start": [
+   52.52844,
+   4.65114
+  ],
+  "km": 5.7,
+  "hm": 10,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "SBB-boswachterspad-olde-smildeger",
+  "naam": "Boswachterspad Olde Smildeger met Clau",
+  "bron": {
+   "naam": "Staatsbosbeheer",
+   "url": "https://www.staatsbosbeheer.nl/uit-in-de-natuur/boswachterspad-olde-smildeger"
+  },
+  "gebied": "drenthe",
+  "plaats": null,
+  "start": [
+   52.90741,
+   6.39224
+  ],
+  "km": 16.1,
+  "hm": 39,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-RODE-PAALTJESWANDELING-K",
+  "naam": "Rode paaltjeswandeling Kennemerduinen met Clau",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "noord-hollandse-duinen",
+  "plaats": null,
+  "start": [
+   52.41514,
+   4.61392
+  ],
+  "km": 14.4,
+  "hm": 235,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-GROENE-WISSEL-HOOG-SOERE",
+  "naam": "Groene Wissel Hoog Soeren met Clau",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "veluwe",
+  "plaats": null,
+  "start": [
+   52.21599,
+   5.88018
+  ],
+  "km": 16.3,
+  "hm": 156,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-KLETTERSTEIGEN-MET-SUNNY",
+  "naam": "Klettersteigen met Sunny bij DAV Duisburg",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "overig-buitenland",
+  "plaats": null,
+  "start": [
+   51.48285,
+   6.78099
+  ],
+  "km": 0.8,
+  "hm": 18,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-ZUID-LIMBURG-20260704",
+  "naam": "Wandeling Zuid-Limburg (2026-07-04)",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "zuid-limburg",
+  "plaats": null,
+  "start": [
+   50.86824,
+   6.04982
+  ],
+  "km": 8.0,
+  "hm": 119,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-HEXENSTEIG-KLETTERSTEIG",
+  "naam": "Hexensteig klettersteig en wandeling eromheen. Heftig klimmen!",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "zwitserland",
+  "plaats": null,
+  "start": [
+   46.79172,
+   8.6699
+  ],
+  "km": 10.8,
+  "hm": 1539,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-KLETTERSTEIG-TIERBERGLI",
+  "naam": "Klettersteig Tierbergli, 700hm klimmen naar 2800m met Sunny",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "zwitserland",
+  "plaats": null,
+  "start": [
+   46.7135,
+   8.41624
+  ],
+  "km": 7.8,
+  "hm": 766,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-ZWITSERLAND-20260827",
+  "naam": "Wandeling Zwitserland (2026-08-27)",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "zwitserland",
+  "plaats": null,
+  "start": [
+   46.72058,
+   8.19006
+  ],
+  "km": 27.8,
+  "hm": 1702,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-GRIMSEL-WANDELING-IN-DE",
+  "naam": "Grimsel wandeling in de mist",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "zwitserland",
+  "plaats": null,
+  "start": [
+   46.56105,
+   8.33675
+  ],
+  "km": 3.2,
+  "hm": 119,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-MIDDAG-WANDELING-LAUTERB",
+  "naam": "Middag wandeling Lauterbrunnen",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "zwitserland",
+  "plaats": null,
+  "start": [
+   46.54521,
+   7.90281
+  ],
+  "km": 4.5,
+  "hm": 344,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-KLETTERSTEIG-KANDERSTEG",
+  "naam": "Klettersteig Kandersteg - Allmenalp met Sunny",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "zwitserland",
+  "plaats": null,
+  "start": [
+   46.48951,
+   7.66145
+  ],
+  "km": 8.2,
+  "hm": 647,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-DUI-WANDELING-CASTRICUM",
+  "naam": "Dui wandeling Castricum met Claudia",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "noord-hollandse-duinen",
+  "plaats": null,
+  "start": [
+   52.56122,
+   4.63606
+  ],
+  "km": 9.4,
+  "hm": 20,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-TRAGE-TOCHT-EERBEEK-COLD",
+  "naam": "Trage tocht Eerbeek Coldenhove met Clau",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "veluwezoom",
+  "plaats": null,
+  "start": [
+   52.08753,
+   6.04292
+  ],
+  "km": 17.1,
+  "hm": 175,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-VELUWE-20261012",
+  "naam": "Wandeling Veluwe (2026-10-12)",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "veluwe",
+  "plaats": null,
+  "start": [
+   52.37951,
+   5.9561
+  ],
+  "km": 9.3,
+  "hm": 53,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-NAMIDDAGHIKE",
+  "naam": "Namiddaghike",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "veluwezoom",
+  "plaats": null,
+  "start": [
+   52.01203,
+   5.90601
+  ],
+  "km": 8.2,
+  "hm": 76,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
+ },
+ {
+  "code": "EIG-MIDDAG-WANDELING-AUSTERL",
+  "naam": "Middag wandeling Austerlitz",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "utrechtse-heuvelrug",
+  "plaats": null,
+  "start": [
+   52.08043,
+   5.30851
+  ],
+  "km": 11.5,
+  "hm": 37,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
  }
 ]

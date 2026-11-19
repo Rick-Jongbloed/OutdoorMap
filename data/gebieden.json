@@ -27,6 +27,74 @@
   {
    "id": "eifel-moezel-mullerthal",
    "naam": "Eifel, Moezel & Mullerthal"
+  },
+  {
+   "id": "veluwezoom",
+   "naam": "Nederland – Veluwezoom"
+  },
+  {
+   "id": "zuid-veluwe",
+   "naam": "Nederland – Zuid-Veluwe"
+  },
+  {
+   "id": "veluwe",
+   "naam": "Nederland – Veluwe"
+  },
+  {
+   "id": "utrechtse-heuvelrug",
+   "naam": "Nederland – Utrechtse Heuvelrug"
+  },
+  {
+   "id": "rijk-van-nijmegen",
+   "naam": "Nederland – Rijk van Nijmegen"
+  },
+  {
+   "id": "oost-nederland",
+   "naam": "Nederland – Oost-Nederland"
+  },
+  {
+   "id": "zuid-limburg",
+   "naam": "Nederland – Zuid-Limburg"
+  },
+  {
+   "id": "noord-midden-limburg",
+   "naam": "Nederland – Noord- en Midden-Limburg"
+  },
+  {
+   "id": "noord-brabant",
+   "naam": "Nederland – Noord-Brabant"
+  },
+  {
+   "id": "flevoland",
+   "naam": "Nederland – Flevoland"
+  },
+  {
+   "id": "drenthe",
+   "naam": "Nederland – Drenthe"
+  },
+  {
+   "id": "noord-hollandse-duinen",
+   "naam": "Nederland – Noord-Hollandse duinen"
+  },
+  {
+   "id": "oostenrijk",
+   "naam": "Oostenrijk"
+  },
+  {
+   "id": "zwitserland",
+   "naam": "Zwitserland"
+  },
+  {
+   "id": "sauerland",
+   "naam": "Sauerland"
+  },
+  {
+   "id": "harz",
+   "naam": "Harz"
+  },
+  {
+   "id": "overig-buitenland",
+   "naam": "Overig buitenland"
   }
  ],
  "gebieden": [
@@ -162,6 +230,125 @@
    "land": "België",
    "kleur": "#ffbe0b",
    "groep": "vlaanderen"
+  },
+  {
+   "id": "veluwezoom",
+   "naam": "Veluwezoom",
+   "land": "Nederland",
+   "kleur": "#2d6a4f",
+   "groep": "veluwezoom"
+  },
+  {
+   "id": "zuid-veluwe",
+   "naam": "Zuid-Veluwe",
+   "land": "Nederland",
+   "kleur": "#52b788",
+   "groep": "zuid-veluwe"
+  },
+  {
+   "id": "veluwe",
+   "naam": "Veluwe",
+   "land": "Nederland",
+   "kleur": "#bc6c25",
+   "groep": "veluwe"
+  },
+  {
+   "id": "utrechtse-heuvelrug",
+   "naam": "Utrechtse Heuvelrug",
+   "land": "Nederland",
+   "kleur": "#606c38",
+   "groep": "utrechtse-heuvelrug"
+  },
+  {
+   "id": "rijk-van-nijmegen",
+   "naam": "Rijk van Nijmegen",
+   "land": "Nederland",
+   "kleur": "#c9184a",
+   "groep": "rijk-van-nijmegen"
+  },
+  {
+   "id": "oost-nederland",
+   "naam": "Oost-Nederland",
+   "land": "Nederland",
+   "kleur": "#a4161a",
+   "groep": "oost-nederland"
+  },
+  {
+   "id": "zuid-limburg",
+   "naam": "Zuid-Limburg",
+   "land": "Nederland",
+   "kleur": "#f77f00",
+   "groep": "zuid-limburg"
+  },
+  {
+   "id": "noord-midden-limburg",
+   "naam": "Noord- en Midden-Limburg",
+   "land": "Nederland",
+   "kleur": "#577590",
+   "groep": "noord-midden-limburg"
+  },
+  {
+   "id": "noord-brabant",
+   "naam": "Noord-Brabant",
+   "land": "Nederland",
+   "kleur": "#3f37c9",
+   "groep": "noord-brabant"
+  },
+  {
+   "id": "flevoland",
+   "naam": "Flevoland",
+   "land": "Nederland",
+   "kleur": "#4cc9f0",
+   "groep": "flevoland"
+  },
+  {
+   "id": "drenthe",
+   "naam": "Drenthe",
+   "land": "Nederland",
+   "kleur": "#9c6644",
+   "groep": "drenthe"
+  },
+  {
+   "id": "noord-hollandse-duinen",
+   "naam": "Noord-Hollandse duinen",
+   "land": "Nederland",
+   "kleur": "#e9c46a",
+   "groep": "noord-hollandse-duinen"
+  },
+  {
+   "id": "oostenrijk",
+   "naam": "Oostenrijk",
+   "land": "Oostenrijk",
+   "kleur": "#ae2012",
+   "groep": "oostenrijk"
+  },
+  {
+   "id": "zwitserland",
+   "naam": "Zwitserland",
+   "land": "Zwitserland",
+   "kleur": "#0a9396",
+   "groep": "zwitserland"
+  },
+  {
+   "id": "sauerland",
+   "naam": "Sauerland",
+   "land": "Duitsland",
+   "kleur": "#3d5a80",
+   "groep": "sauerland"
+  },
+  {
+   "id": "harz",
+   "naam": "Harz",
+   "land": "Duitsland",
+   "kleur": "#99582a",
+   "groep": "harz"
+  },
+  {
+   "id": "overig-buitenland",
+   "naam": "Overig buitenland",
+   "land": "Diverse landen",
+   "kleur": "#8d99ae",
+   "groep": "overig-buitenland"
   }
  ]
 }
