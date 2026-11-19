@@ -50,7 +50,6 @@ Elke route heeft een vaste code, de gedeelde sleutel tussen OutdoorMap, Notebook
 | `AWD-` | Amsterdamse Waterleidingduinen |
 | `PR-` | profirouten.de |
 | `GPSW-` | gps-wijzer.nl |
-| `TH-` | Thüringer Wald-routes |
 | `KO-` | Komoot (tour-id) |
 | `EIG-` | Eigen route of bron onbekend |
 
