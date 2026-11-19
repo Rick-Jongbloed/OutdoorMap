@@ -6,7 +6,7 @@ Persoonlijke kaart van mijn wandelingen, ingedeeld per gebied, met datum, afstan
 
 ## Wat staat erop
 
-- Gelopen wandelingen in de Ardennen, Eifel, Mullerthal, Moezel/Hunsrück en Semois, per gebied met het land erbij.
+- Gelopen wandelingen (263 routes, 200 wandelingen, 36 gebieden) in de Ardennen, Eifel, Mullerthal, Moezel/Hunsrück, Semois, Nederland, Oostenrijk, Zwitserland, Sauerland en Harz, per gebied met het land erbij.
 - Per route alle keren dat ik hem liep, met links naar Strava en naar de bron.
 - Laag met startpunten van routes die ik nog niet liep (o.a. de catalogus van Originele wandelingen, Gert Sonck).
 - Kaartlagen: OSM, topo (OpenTopoMap), satelliet (Esri) en bewegwijzerde wandelroutes (Waymarked Trails).
@@ -21,6 +21,7 @@ Statische site zonder server of build-stap. Deze repo is de enige plek waar de d
 | `data/gebieden.json` | Gebieden (naam, land, kleur) en de groepen voor de NotebookLM-docs |
 | `data/routes.json` | Routes: code, naam, bron, gebied, start, afstand, graad, kenmerken, hindernissen, rijtijd, enz. |
 | `data/walks.json` | Elke keer dat een route gelopen is: Strava-id, datum, km, hm, eigen notities, track |
+| `tools/import_strava.py` | Importeert een Strava-selectie (gpx/tcx/fit) naar gebieden, routes en wandelingen, met herkenning van herhaalde routes |
 | `tools/export_notebook.py` | Maakt de gebieds-docs en `master_index.csv` voor NotebookLM |
 | `tools/notebook_targets.json` | Google Drive-id's van de docs en de master_index |
 | `vendor/leaflet/` | Leaflet 1.9.4 |
@@ -40,6 +41,16 @@ Elke route heeft een vaste code, de gedeelde sleutel tussen OutdoorMap, Notebook
 | `MT-` | Mullerthal Trail |
 | `WT-` | Wildnis-Trail Eifel |
 | `ES-` | EifelSpur |
+| `WN-` | wandelnet.nl |
+| `WL-` | Wikiloc |
+| `SBB-` | Staatsbosbeheer |
+| `NM-` | Natuurmonumenten |
+| `NS-` | NS wandelen |
+| `VZL-` | VisitZuidLimburg |
+| `AWD-` | Amsterdamse Waterleidingduinen |
+| `PR-` | profirouten.de |
+| `GPSW-` | gps-wijzer.nl |
+| `TH-` | Thüringer Wald-routes |
 | `KO-` | Komoot (tour-id) |
 | `EIG-` | Eigen route of bron onbekend |
 
@@ -61,7 +72,7 @@ Aanvullingen van Gemini komen als JSON-patch per routecode terug, bijvoorbeeld:
 
 ## Plannen
 
-1. Alle wandelingen uit een Strava-export importeren, inclusief Nederland (vanaf 3 km, zonder rondjes rond huis en dubbele opnames).
+1. ~~Alle wandelingen uit een Strava-export importeren~~ (klaar, 19-11-2026: `tools/import_strava.py`).
 2. Bronnen koppelen: frankwandelt.nl, wandelzoekpagina.nl en de overige bronnen; per route omschrijving en GPX.
 3. Weer per gebied: voorspelling per uur via Open-Meteo, met een dagkeuze.
 4. Oudere wandelingen uit Fitbit toevoegen.
