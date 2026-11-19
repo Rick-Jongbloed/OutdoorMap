@@ -21,7 +21,7 @@
  },
  {
   "strava_id": "20818589567",
-  "route": "EIG-N70-NIJMEGEN-BLIJFT-TOCH",
+  "route": "SBB-N70",
   "naam": "N70 met Donna",
   "datum": "2026-11-01",
   "km": 16.16,
@@ -231,7 +231,7 @@
  },
  {
   "strava_id": "17975554607",
-  "route": "EIG-KLOMPENPAD-HARTENSEPAD-H",
+  "route": "KP-HARTENSEPAD",
   "naam": "Klompenpad Hartensepad - Renkums Beekdal met Clau",
   "datum": "2026-04-04",
   "km": 15.09,
@@ -351,7 +351,7 @@
  },
  {
   "strava_id": "15570932164",
-  "route": "EIG-N70-NIJMEGEN-BLIJFT-TOCH",
+  "route": "SBB-N70",
   "naam": "Middagwandelingetje N70 - Nijmegen",
   "datum": "2025-08-24",
   "km": 14.87,
@@ -511,7 +511,7 @@
  },
  {
   "strava_id": "14521822046",
-  "route": "EIG-N70-NIJMEGEN-BLIJFT-TOCH",
+  "route": "SBB-N70",
   "naam": "Wandeling 7 Heuvelen Berg en Dal met Menno",
   "datum": "2025-05-18",
   "km": 17.09,
@@ -621,7 +621,7 @@
  },
  {
   "strava_id": "13511182501",
-  "route": "EIG-NS-WANDELING-DRIEBERGEN",
+  "route": "NS-UTRECHTSE-HEUVELRUG",
   "naam": "NS Wandeling Driebergen naar Maarn",
   "datum": "2025-02-01",
   "km": 15.9,
@@ -651,7 +651,7 @@
  },
  {
   "strava_id": "13073470494",
-  "route": "EIG-DUINTOPPENWANDELING-SCHO",
+  "route": "SBB-DUINTOPPENROUTE-SCHOORL",
   "naam": "Duintoppenwandeling Schoorl",
   "datum": "2024-12-08",
   "km": 27.03,
@@ -791,7 +791,7 @@
  },
  {
   "strava_id": "11549256185",
-  "route": "EIG-TREKVOGELPAD-16-OTTERLO",
+  "route": "WN-TREKVOGELPAD-16",
   "naam": "Trekvogelpad 16 - Otterlo naar Hoenderloo - Door de Hoge veluwe",
   "datum": "2024-06-01",
   "km": 22.82,
@@ -821,7 +821,7 @@
  },
  {
   "strava_id": "11331712541",
-  "route": "EIG-DRENTHE-20240504",
+  "route": "EIG-KNAPZAK-WANDELING-GASTER",
   "naam": "Middagwandeling",
   "datum": "2024-05-04",
   "km": 21.2,
@@ -921,7 +921,7 @@
  },
  {
   "strava_id": "10741587581",
-  "route": "EIG-FLEVOLAND-20240211",
+  "route": "EIG-KORT-RONDJE-GRAFHEUVELS",
   "naam": "Afternoon Walk",
   "datum": "2024-02-11",
   "km": 7.97,
@@ -1101,7 +1101,7 @@
  },
  {
   "strava_id": "9601716005",
-  "route": "EIG-KLOMPENPAD-SONNEVANCKPAD",
+  "route": "KP-SONNEVANCKPAD",
   "naam": "Klompenpad Sonnevanckpad",
   "datum": "2023-08-07",
   "km": 10.48,
@@ -1141,7 +1141,7 @@
  },
  {
   "strava_id": "9426354752",
-  "route": "EIG-KLOMPENPAD-HARTENSEPAD-H",
+  "route": "KP-HARTENSEPAD",
   "naam": "Klompenpad Hartensepad. Het beekdal hier is mooooi :-)",
   "datum": "2023-07-10",
   "km": 10.99,
@@ -1181,7 +1181,7 @@
  },
  {
   "strava_id": "9133889330",
-  "route": "EIG-BOSWACHTERPAD-AMERONGSE",
+  "route": "SBB-AMERONGSE-BERG",
   "naam": "Boswachterspad Amerongse Berg",
   "datum": "2023-05-24",
   "km": 8.79,
@@ -1191,7 +1191,7 @@
  },
  {
   "strava_id": "9071237183",
-  "route": "EIG-N70-NIJMEGEN-BLIJFT-TOCH",
+  "route": "SBB-N70",
   "naam": "N70 Berg en Dal",
   "datum": "2023-05-14",
   "km": 17.76,
@@ -1501,7 +1501,7 @@
  },
  {
   "strava_id": "7315093885",
-  "route": "EIG-N70-NIJMEGEN-BLIJFT-TOCH",
+  "route": "SBB-N70",
   "naam": "N70, Nijmegen. Blijft toch een van de mooiste wandelingen in Nederland",
   "datum": "2022-06-15",
   "km": 14.88,
@@ -1521,7 +1521,7 @@
  },
  {
   "strava_id": "7264923759",
-  "route": "EIG-HOGE-VENEN-20220606",
+  "route": "EIG-BOTRANGE-27",
   "naam": "2022-06-06 17:01:50",
   "datum": "2022-06-06",
   "km": 1.82,
@@ -1531,7 +1531,7 @@
  },
  {
   "strava_id": "7244740128",
-  "route": "EIG-BOSWACHTERPAD-AMERONGSE",
+  "route": "SBB-AMERONGSE-BERG",
   "naam": "Boswachterpad Amerongse Berg",
   "datum": "2022-06-02",
   "km": 10.52,
@@ -1551,7 +1551,7 @@
  },
  {
   "strava_id": "7211659762",
-  "route": "EIG-MULLERTHAL-20220527",
+  "route": "EIG-BERDORF",
   "naam": "2022-05-27 11:54:56",
   "datum": "2022-05-27",
   "km": 19.54,
@@ -1581,7 +1581,7 @@
  },
  {
   "strava_id": "7102484192",
-  "route": "EIG-OVIFAT-12",
+  "route": "KO-580932545",
   "naam": "Lunch Walk (Waimes, 12 km)",
   "datum": "2022-05-07",
   "km": 12.0,

@@ -57,6 +57,7 @@ function routePopup(route, gebied, walks) {
   return `<b>${esc(route.code)} – ${esc(route.naam)}</b><br>` +
          `${esc(gebied.naam)} (${esc(gebied.land)}) · ${fmtKm(route.km)} km${route.hm ? ` · ${route.hm} hm` : ''}<br>` +
          `Bron: ${bron}<br>${status}` +
+         (route.samenvatting ? `<br><i>${esc(route.samenvatting)}</i>` : '') +
          (extra.length ? `<br><span class="muted">${extra.join(' · ')}</span>` : '');
 }
 

@@ -56,6 +56,8 @@ def route_blok(r):
         bron += " – gids 5e editie" + (f" p. {r['gids']['pagina']}" if r["gids"]["pagina"] else "")
     if r["bron"]["url"]:
         bron += f" – {r['bron']['url']}"
+    if r.get("bron_zekerheid"):
+        bron += f" (zekerheid bron: {r['bron_zekerheid']})"
     graad = f"{r['graad']} ({r['graad_kleur']})" if r["graad"] else ONBEKEND
     rij = f"{r['rijtijd']['min'] // 60}u {r['rijtijd']['min'] % 60:02d}m ({r['rijtijd']['km']} km)" if r["rijtijd"] else ONBEKEND
     hind = ", ".join(r["hindernissen"]) if r["hindernissen"] else "geen bekend"
@@ -71,6 +73,8 @@ def route_blok(r):
         regels.append(f"Toelichting hindernissen: {r['hindernissen_toelichting']}")
     if r["highlights"]:
         regels.append(f"Highlights: {r['highlights']}")
+    if r.get("samenvatting"):
+        regels.append(f"Samenvatting: {r['samenvatting']}")
     regels.append(f"Weersgevoeligheid: {r['weersgevoeligheid'] or ONBEKEND}")
     regels.append(f"Varianten: {r['varianten'] or ONBEKEND}")
     for w in ws:
