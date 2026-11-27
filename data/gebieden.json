@@ -1,4 +1,34 @@
 {
+ "landen": [
+  {
+   "naam": "Nederland",
+   "standaard_uit": false
+  },
+  {
+   "naam": "België",
+   "standaard_uit": false
+  },
+  {
+   "naam": "Luxemburg",
+   "standaard_uit": false
+  },
+  {
+   "naam": "Duitsland",
+   "standaard_uit": false
+  },
+  {
+   "naam": "Oostenrijk",
+   "standaard_uit": true
+  },
+  {
+   "naam": "Zwitserland",
+   "standaard_uit": true
+  },
+  {
+   "naam": "Griekenland",
+   "standaard_uit": true
+  }
+ ],
  "groepen": [
   {
    "id": "ourthe-ambleve",
@@ -85,6 +115,10 @@
    "naam": "Zwitserland"
   },
   {
+   "id": "kreta",
+   "naam": "Kreta"
+  },
+  {
    "id": "sauerland",
    "naam": "Sauerland"
   },
@@ -95,11 +129,6 @@
   {
    "id": "overig-buitenland",
    "naam": "Overig buitenland"
-  },
-  {
-   "id": "alpen-kreta",
-   "naam": "Alpen & Kreta",
-   "standaard_uit": true
   }
  ],
  "gebieden": [
@@ -325,14 +354,14 @@
    "naam": "Oostenrijk",
    "land": "Oostenrijk",
    "kleur": "#ae2012",
-   "groep": "alpen-kreta"
+   "groep": "oostenrijk"
   },
   {
    "id": "zwitserland",
    "naam": "Zwitserland",
    "land": "Zwitserland",
    "kleur": "#0a9396",
-   "groep": "alpen-kreta"
+   "groep": "zwitserland"
   },
   {
    "id": "sauerland",
@@ -360,7 +389,7 @@
    "naam": "Kreta",
    "land": "Griekenland",
    "kleur": "#00b4d8",
-   "groep": "alpen-kreta"
+   "groep": "kreta"
   },
   {
    "id": "ruhrgebied",

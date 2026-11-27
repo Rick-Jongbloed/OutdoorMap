@@ -13,3 +13,8 @@ h2 { font-size: 14px; margin: 16px 0 4px; display: flex; align-items: center; ga
   body { flex-direction: column-reverse; }
   #side { width: 100%; height: 40%; border-right: 0; border-top: 1px solid #ddd; }
 }
+.landen-control { padding: 6px 10px; max-height: 60vh; overflow-y: auto; font-size: 13px; }
+.landen-control summary { cursor: pointer; font-weight: 600; }
+.landen-control .land { margin-top: 6px; }
+.landen-control .land-kop { display: block; font-weight: 600; cursor: pointer; }
+.landen-control .gebied { display: flex; align-items: center; gap: 4px; margin-left: 18px; cursor: pointer; }

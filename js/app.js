@@ -62,7 +62,7 @@ function routePopup(route, gebied, walks) {
 }
 
 Promise.all(['gebieden', 'routes', 'walks'].map(n => fetch(`data/${n}.json`).then(r => r.json())))
-  .then(([{ gebieden }, routes, walks]) => {
+  .then(([{ gebieden, landen }, routes, walks]) => {
     const gebied = Object.fromEntries(gebieden.map(g => [g.id, g]));
     const route = Object.fromEntries(routes.map(r => [r.code, r]));
     const walksPerRoute = {};
@@ -71,12 +71,18 @@ Promise.all(['gebieden', 'routes', 'walks'].map(n => fetch(`data/${n}.json`).the
     const groups = {}, lines = {}, overlays = {};
     const todo = L.featureGroup();  // startpunten van nog niet gelopen routes
 
+    // Land van een gebied: eerste land bij "Duitsland / België"
+    const landVan = g => (g.land || 'Overig').split(' / ')[0];
+    const landenCfg = landen || [];
+    const uit = new Set(landenCfg.filter(l => l.standaard_uit).map(l => l.naam));
+
     // Alleen gebieden met gelopen wandelingen krijgen een eigen laag
     const actief = gebieden.filter(g => routes.some(r => r.gebied === g.id && walksPerRoute[r.code]));
+    const nRoutes = {};
     actief.forEach(g => {
-      groups[g.id] = L.featureGroup().addTo(map);
-      const n = routes.filter(r => r.gebied === g.id && walksPerRoute[r.code]).length;
-      overlays[`<span class="swatch" style="background:${g.kleur}"></span> ${g.naam} – ${g.land} (${n})`] = groups[g.id];
+      groups[g.id] = L.featureGroup();
+      if (!uit.has(landVan(g))) groups[g.id].addTo(map);
+      nRoutes[g.id] = routes.filter(r => r.gebied === g.id && walksPerRoute[r.code]).length;
     });
 
     walks.forEach(w => {
@@ -97,7 +103,63 @@ Promise.all(['gebieden', 'routes', 'walks'].map(n => fetch(`data/${n}.json`).the
     overlays['🥾 Wandelroutes (Waymarked Trails)'] = hikingOverlay;
 
     L.control.layers(baseLayers, overlays, { collapsed: window.innerWidth < 700 }).addTo(map);
-    map.fitBounds(L.featureGroup(Object.values(lines)).getBounds());
+
+    // Paneel met gebieden per land: landschakelaar zet alle gebieden van dat land aan/uit
+    const volgorde = landenCfg.map(l => l.naam);
+    const perLand = {};
+    actief.forEach(g => (perLand[landVan(g)] ??= []).push(g));
+    const landNamen = Object.keys(perLand).sort((a, b) =>
+      ((volgorde.indexOf(a) + 1) || 99) - ((volgorde.indexOf(b) + 1) || 99) || a.localeCompare(b));
+
+    const zet = (g, aan) => aan ? groups[g.id].addTo(map) : map.removeLayer(groups[g.id]);
+    const landBox = {}, gebiedBox = {};
+    const syncLand = land => {
+      const gs = perLand[land], n = gs.filter(g => map.hasLayer(groups[g.id])).length;
+      landBox[land].checked = n === gs.length;
+      landBox[land].indeterminate = n > 0 && n < gs.length;
+    };
+    const toonGebied = g => { zet(g, true); gebiedBox[g.id].checked = true; syncLand(landVan(g)); };
+
+    const LandenControl = L.Control.extend({
+      options: { position: 'topright' },
+      onAdd() {
+        const div = L.DomUtil.create('div', 'leaflet-control-layers landen-control');
+        const det = L.DomUtil.create('details', '', div);
+        det.open = window.innerWidth >= 700;
+        L.DomUtil.create('summary', '', det).textContent = 'Gebieden per land';
+        landNamen.forEach(land => {
+          const gs = perLand[land];
+          const blok = L.DomUtil.create('div', 'land', det);
+          const kop = L.DomUtil.create('label', 'land-kop', blok);
+          const cb = L.DomUtil.create('input', '', kop);
+          cb.type = 'checkbox';
+          landBox[land] = cb;
+          kop.append(` ${land} (${gs.reduce((s, g) => s + nRoutes[g.id], 0)})`);
+          cb.onchange = () => {
+            gs.forEach(g => { zet(g, cb.checked); gebiedBox[g.id].checked = cb.checked; });
+            syncLand(land);
+          };
+          gs.forEach(g => {
+            const lab = L.DomUtil.create('label', 'gebied', blok);
+            const gcb = L.DomUtil.create('input', '', lab);
+            gcb.type = 'checkbox';
+            gcb.checked = map.hasLayer(groups[g.id]);
+            gebiedBox[g.id] = gcb;
+            lab.insertAdjacentHTML('beforeend',
+              ` <span class="swatch" style="background:${g.kleur}"></span> ${esc(g.naam)} (${nRoutes[g.id]})`);
+            gcb.onchange = () => { zet(g, gcb.checked); syncLand(land); };
+          });
+          syncLand(land);
+        });
+        L.DomEvent.disableClickPropagation(div);
+        L.DomEvent.disableScrollPropagation(div);
+        return div;
+      }
+    });
+    new LandenControl().addTo(map);
+
+    const zichtbaar = Object.values(lines).filter(l => actief.some(g => map.hasLayer(groups[g.id]) && groups[g.id].hasLayer(l)));
+    map.fitBounds(L.featureGroup(zichtbaar.length ? zichtbaar : Object.values(lines)).getBounds());
 
     // Lijst per gebied: routes met alle datums, nieuwste eerst
     const list = document.getElementById('list');
@@ -108,7 +170,7 @@ Promise.all(['gebieden', 'routes', 'walks'].map(n => fetch(`data/${n}.json`).the
       const h = document.createElement('h2');
       h.innerHTML = `<span class="swatch" style="background:${g.kleur}"></span>${esc(g.naam)} ` +
                     `<span class="muted">– ${esc(g.land)} · ${rs.length} routes · ${nWalks}× gelopen</span>`;
-      h.onclick = () => map.fitBounds(groups[g.id].getBounds(), { padding: [30, 30] });
+      h.onclick = () => { toonGebied(g); map.fitBounds(groups[g.id].getBounds(), { padding: [30, 30] }); };
       list.appendChild(h);
       rs.forEach(r => {
         const ws = walksPerRoute[r.code];
@@ -116,6 +178,7 @@ Promise.all(['gebieden', 'routes', 'walks'].map(n => fetch(`data/${n}.json`).the
         d.className = 'walk';
         d.innerHTML = `${esc(r.naam)} <span class="muted">(${fmtKm(r.km)} km · ${ws.map(w => w.datum).join(', ')})</span>`;
         d.onclick = () => {
+          toonGebied(g);
           const ls = ws.map(w => lines[w.strava_id]);
           map.fitBounds(L.featureGroup(ls).getBounds(), { padding: [30, 30] });
           ls[0].openPopup();
