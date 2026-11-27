@@ -936,7 +936,7 @@
    "naam": "Onbekend",
    "url": null
   },
-  "gebied": "flevoland",
+  "gebied": "veluwe",
   "plaats": null,
   "start": [
    52.27618,
@@ -966,7 +966,7 @@
    "naam": "Onbekend",
    "url": null
   },
-  "gebied": "flevoland",
+  "gebied": "veluwe",
   "plaats": null,
   "start": [
    52.27908,
@@ -1068,7 +1068,7 @@
    "naam": "Onbekend",
    "url": null
   },
-  "gebied": "flevoland",
+  "gebied": "veluwe",
   "plaats": null,
   "start": [
    52.26475,
@@ -1128,7 +1128,7 @@
    "naam": "wandelzoekpagina.nl (Groene Wissel Doorwerth)",
    "url": "https://www.wandelzoekpagina.nl/"
   },
-  "gebied": "zuid-veluwe",
+  "gebied": "veluwezoom",
   "plaats": null,
   "start": [
    51.96797,
@@ -1323,7 +1323,7 @@
    "naam": "RouteYou (Hoëgne-Statte-Sawe)",
    "url": "https://www.routeyou.com/nl-be/route/view/9877621"
   },
-  "gebied": "hoge-venen",
+  "gebied": "vesdre",
   "plaats": null,
   "start": [
    50.48168,
@@ -1638,7 +1638,7 @@
    "naam": "DAV Duisburg (Klettersteig Monte Thysso – Landschaftspark Duisburg-Nord)",
    "url": "https://www.dav-duisburg.de/Kletteranlagen/Klettersteig"
   },
-  "gebied": "overig-buitenland",
+  "gebied": "ruhrgebied",
   "plaats": null,
   "start": [
    51.48285,
@@ -1675,7 +1675,7 @@
    "naam": "Discovering Crete (Richtis Gorge, Sitia Geopark)",
    "url": "https://www.discoveringcrete.com/en/hiking-walking/richtis-gorge-159"
   },
-  "gebied": "overig-buitenland",
+  "gebied": "kreta",
   "plaats": null,
   "start": [
    35.1643,
@@ -1823,7 +1823,7 @@
    "naam": "Onbekend",
    "url": null
   },
-  "gebied": "flevoland",
+  "gebied": "veluwe",
   "plaats": null,
   "start": [
    52.26476,
@@ -2151,7 +2151,7 @@
    "naam": "ardennen.nl",
    "url": "https://ardennen.nl/wandelen/lange-wandeling-langs-de-ninglispo-en-chefna/"
   },
-  "gebied": "ambleve",
+  "gebied": "vesdre",
   "plaats": null,
   "start": [
    50.46773,
@@ -2556,7 +2556,7 @@
    "naam": "Onbekend",
    "url": null
   },
-  "gebied": "oost-nederland",
+  "gebied": "drenthe",
   "plaats": null,
   "start": [
    52.80499,
@@ -2937,7 +2937,7 @@
    "naam": "Verdwaalspoor (Externsteine – Silberbachtal – Velmerstot)",
    "url": "https://verdwaalspoor.nl/holzhausen-bergwandelen-bij-de-externsteine-en-velmerstot/"
   },
-  "gebied": "overig-buitenland",
+  "gebied": "teutoburger-woud",
   "plaats": null,
   "start": [
    51.84625,
@@ -3009,7 +3009,7 @@
    "naam": "Eigen route",
    "url": null
   },
-  "gebied": "noordeifel",
+  "gebied": "hoge-venen",
   "plaats": null,
   "start": [
    50.64701,
@@ -3730,7 +3730,7 @@
    "naam": "wandelzoekpagina.nl (Trage Tocht Blaricum)",
    "url": "https://www.wandelzoekpagina.nl/"
   },
-  "gebied": "flevoland",
+  "gebied": "utrechtse-heuvelrug",
   "plaats": null,
   "start": [
    52.27533,
@@ -4519,7 +4519,7 @@
    "naam": "Cretan Adventures (Via Ferrata Asterousia / Kapetaniana)",
    "url": "https://www.cretanadventures.gr/en/our-tours/via-ferrata/"
   },
-  "gebied": "overig-buitenland",
+  "gebied": "kreta",
   "plaats": null,
   "start": [
    34.9565,
@@ -4558,7 +4558,7 @@
    "naam": "Onbekend",
    "url": null
   },
-  "gebied": "zuid-veluwe",
+  "gebied": "veluwezoom",
   "plaats": null,
   "start": [
    51.96973,
@@ -4818,7 +4818,7 @@
    "naam": "Onbekend",
    "url": null
   },
-  "gebied": "zuid-veluwe",
+  "gebied": "veluwe",
   "plaats": null,
   "start": [
    52.0284,
@@ -4852,7 +4852,7 @@
    "naam": "Onbekend",
    "url": null
   },
-  "gebied": "zuid-veluwe",
+  "gebied": "veluwezoom",
   "plaats": null,
   "start": [
    51.99729,
@@ -4876,47 +4876,13 @@
   "bron_zekerheid": null
  },
  {
-  "code": "EIG-ZUID-VELUWE-20240413",
-  "naam": "Wandeling Zuid-Veluwe (2024-04-13)",
-  "bron": {
-   "naam": "Onbekend",
-   "url": null
-  },
-  "gebied": "zuid-veluwe",
-  "plaats": null,
-  "start": [
-   51.98707,
-   5.73003
-  ],
-  "km": 12.9,
-  "hm": 62,
-  "graad": null,
-  "graad_kleur": null,
-  "kenmerken": [
-   "beekdal",
-   "bossen",
-   "heide"
-  ],
-  "hindernissen": [],
-  "hindernissen_toelichting": null,
-  "highlights": null,
-  "weersgevoeligheid": null,
-  "varianten": null,
-  "rijtijd": null,
-  "gids": null,
-  "gpx_bron": null,
-  "opmerking": null,
-  "bron_zekerheid": "middel",
-  "samenvatting": "Bos- en beekdalwandeling in de omgeving van het Renkums Beekdal en Heelsum."
- },
- {
   "code": "EIG-ZUID-VELUWE-20240413-2",
   "naam": "Wandeling Zuid-Veluwe (2024-04-13)",
   "bron": {
    "naam": "Onbekend",
    "url": null
   },
-  "gebied": "zuid-veluwe",
+  "gebied": "veluwezoom",
   "plaats": null,
   "start": [
    51.98701,
@@ -4946,7 +4912,7 @@
    "naam": "Schwarzwald Tourismus (Wutachschlucht / Wutachflühen – omgeving Blumberg)",
    "url": "https://www.wutachschlucht.de/"
   },
-  "gebied": "zwitserland",
+  "gebied": "zwarte-woud",
   "plaats": null,
   "start": [
    47.84814,
@@ -5162,7 +5128,7 @@
    "naam": "Originele wandelingen (Gert Sonck)",
    "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=ESN&nummer=1"
   },
-  "gebied": "ourthe",
+  "gebied": "vesdre",
   "plaats": "Esneux",
   "start": [
    50.54675,
@@ -6332,7 +6298,7 @@
    "naam": "Komoot",
    "url": "https://www.komoot.nl/tour/905263451"
   },
-  "gebied": "noordeifel",
+  "gebied": "hoge-venen",
   "plaats": null,
   "start": [
    50.63847,
@@ -6362,7 +6328,7 @@
    "naam": "klompenpaden.nl (Hartensepad)",
    "url": "https://klompenpaden.nl/klompenpad/hartensepad/"
   },
-  "gebied": "zuid-veluwe",
+  "gebied": "veluwezoom",
   "plaats": null,
   "start": [
    51.9813,
@@ -6400,7 +6366,7 @@
    "naam": "klompenpaden.nl",
    "url": "https://klompenpaden.nl/klompenpad/sonnevanckpad/"
   },
-  "gebied": "flevoland",
+  "gebied": "veluwe",
   "plaats": null,
   "start": [
    52.32144,
@@ -7678,7 +7644,7 @@
    "naam": "Originele wandelingen (Gert Sonck)",
    "url": "https://www.originelewandelingen.be/keuzewandeling.php?keuze=RUY&nummer=1"
   },
-  "gebied": "ambleve",
+  "gebied": "vesdre",
   "plaats": "Moulin-Du-Ruy",
   "start": [
    50.42529,
@@ -8700,7 +8666,7 @@
    "naam": "Wikiloc",
    "url": "https://nl.wikiloc.com/routes-wandelen/doorwerth-88105054"
   },
-  "gebied": "zuid-veluwe",
+  "gebied": "veluwezoom",
   "plaats": null,
   "start": [
    51.98573,
@@ -8926,5 +8892,33 @@
   "opmerking": null,
   "samenvatting": null,
   "bron_zekerheid": null
+ },
+ {
+  "code": "EIG-MULLERTHAL-TRAIL-3",
+  "naam": "Mullerthal trail 3",
+  "bron": {
+   "naam": "Onbekend",
+   "url": null
+  },
+  "gebied": "mullerthal",
+  "plaats": null,
+  "start": [
+   49.79055,
+   6.30645
+  ],
+  "km": 42.3,
+  "hm": 842,
+  "graad": null,
+  "graad_kleur": null,
+  "kenmerken": [],
+  "hindernissen": [],
+  "hindernissen_toelichting": null,
+  "highlights": null,
+  "weersgevoeligheid": null,
+  "varianten": null,
+  "rijtijd": null,
+  "gids": null,
+  "gpx_bron": null,
+  "opmerking": null
  }
 ]

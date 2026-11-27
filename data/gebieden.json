@@ -95,6 +95,11 @@
   {
    "id": "overig-buitenland",
    "naam": "Overig buitenland"
+  },
+  {
+   "id": "alpen-kreta",
+   "naam": "Alpen & Kreta",
+   "standaard_uit": true
   }
  ],
  "gebieden": [
@@ -320,14 +325,14 @@
    "naam": "Oostenrijk",
    "land": "Oostenrijk",
    "kleur": "#ae2012",
-   "groep": "oostenrijk"
+   "groep": "alpen-kreta"
   },
   {
    "id": "zwitserland",
    "naam": "Zwitserland",
    "land": "Zwitserland",
    "kleur": "#0a9396",
-   "groep": "zwitserland"
+   "groep": "alpen-kreta"
   },
   {
    "id": "sauerland",
@@ -348,6 +353,34 @@
    "naam": "Overig buitenland",
    "land": "Diverse landen",
    "kleur": "#8d99ae",
+   "groep": "overig-buitenland"
+  },
+  {
+   "id": "kreta",
+   "naam": "Kreta",
+   "land": "Griekenland",
+   "kleur": "#00b4d8",
+   "groep": "alpen-kreta"
+  },
+  {
+   "id": "ruhrgebied",
+   "naam": "Ruhrgebied",
+   "land": "Duitsland",
+   "kleur": "#b56576",
+   "groep": "overig-buitenland"
+  },
+  {
+   "id": "teutoburger-woud",
+   "naam": "Teutoburger Woud",
+   "land": "Duitsland",
+   "kleur": "#6b9080",
+   "groep": "overig-buitenland"
+  },
+  {
+   "id": "zwarte-woud",
+   "naam": "Zwarte Woud",
+   "land": "Duitsland",
+   "kleur": "#355070",
    "groep": "overig-buitenland"
   }
  ]
